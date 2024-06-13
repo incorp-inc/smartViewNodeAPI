@@ -1,7 +1,6 @@
 const axios = require('axios');
 const FormData = require('form-data');
 const fs = require('fs');
-const path = require('path');
 
 module.exports.fileUploadAPI = async (file,res) => {
 
@@ -39,7 +38,8 @@ let config = {
 
 try {
   const response = await axios.request(config);
-  res.json(response.data[0].fileID);
+  console.log(response.data[0].fileID);
+  return (response.data[0].fileID)
 } catch (error) {
   console.error(error);
   res.status(500).send('An error occurred while uploading the file');

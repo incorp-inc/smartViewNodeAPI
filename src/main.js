@@ -2,7 +2,7 @@ const express = require('express');
 const multer = require('multer');
 
 const fileUpload = require('./apiServices/fileUpload')
-
+const extractResult = require('./apiServices/extractResults')
 
 const app = express();
 
@@ -21,7 +21,9 @@ app.post('/uploadInvoice', upload.single('file'), async (req, res) => {
 
  const FileID = await fileUpload.fileUploadAPI(file,res)
 
- res.json(FileID);
+ const result = await extractResult.extractResult(FileID,res)
+
+ res.json(result);
 
 
 
