@@ -71,9 +71,20 @@ app.post('/getAllUserData', upload.none(), async (req, res) => {
 app.post('/getCountOfFilesMatchingCriteria', upload.none(), async (req, res) => {
 
   const { startDate,endDate, menu, submenu } = req.body;
+  console.log(req.body)
 
   try {
     const data = await userLogs.getCountOfFilesMatchingCriteria(startDate,endDate, menu, submenu)
+    res.json(data);
+  } catch (error) {
+    res.status(500).send(error);
+  }
+});
+
+app.post('/getUniqueMenuAndSubmenu', upload.none(), async (req, res) => {
+
+  try {
+    const data = await userLogs.getUniqueMenuAndSubmenu();
     res.json(data);
   } catch (error) {
     res.status(500).send(error);
