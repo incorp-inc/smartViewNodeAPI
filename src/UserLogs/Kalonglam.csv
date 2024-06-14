@@ -1,0 +1,949 @@
+Timestamp,SessionId,UserName, AbsoluteUrl,Menu,Submenu
+28/5/2024 9:31:00 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+28/5/2024 9:31:11 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+28/5/2024 9:32:06 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+28/5/2024 9:40:52 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+28/5/2024 9:40:59 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+28/5/2024 9:53:41 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+28/5/2024 10:03:16 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+28/5/2024 10:08:01 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+28/5/2024 10:08:03 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+28/5/2024 10:08:04 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+28/5/2024 10:08:04 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+28/5/2024 10:08:15 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+28/5/2024 10:08:22 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+28/5/2024 10:09:16 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+28/5/2024 10:10:55 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+28/5/2024 10:42:31 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 10:42:36 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 11:31:24 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 11:31:30 AM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 2:02:22 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 2:02:26 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 2:02:33 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+28/5/2024 2:03:30 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+28/5/2024 2:25:32 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+28/5/2024 2:25:39 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+28/5/2024 2:25:43 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+28/5/2024 2:25:45 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+28/5/2024 2:25:57 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+28/5/2024 2:26:05 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+28/5/2024 2:26:10 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+28/5/2024 2:26:13 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+28/5/2024 2:26:16 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+28/5/2024 2:26:23 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+28/5/2024 2:26:32 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+28/5/2024 3:23:51 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 3:23:56 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 3:36:08 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+28/5/2024 3:36:12 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+28/5/2024 3:36:14 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+28/5/2024 3:36:15 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+28/5/2024 3:39:54 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 4:26:41 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 4:26:45 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 4:28:14 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+28/5/2024 5:13:48 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/KnowledgeBase/frmKBAttendanceDetails,Leave Management,Attendance Details
+28/5/2024 5:13:51 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+28/5/2024 5:13:59 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/KnowledgeBase/frmKBAttendanceDetails,Leave Management,Attendance Details
+28/5/2024 5:14:28 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Documentbuilder/frmDocAGMDocumentBuilder,Secretarial Documents,AGM Documents
+28/5/2024 5:14:32 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Documentbuilder/frmDocAGMDocumentBuilder,Secretarial Documents,AGM Documents
+28/5/2024 5:14:34 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Documentbuilder/frmDocAGMDocumentBuilder,Secretarial Documents,AGM Documents
+28/5/2024 5:14:34 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Documentbuilder/frmDocAGMDocumentBuilder,Secretarial Documents,AGM Documents
+28/5/2024 5:14:34 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Documentbuilder/frmDocAGMDocumentBuilder,Secretarial Documents,AGM Documents
+28/5/2024 5:14:35 PM,tqg0rd20siqs5xwdsdr0nwko,Kalonglam,https://portal.incorp.asia/myportal/Documentbuilder/frmDocAGMDocumentBuilder,Secretarial Documents,AGM Documents
+29/5/2024 7:43:57 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+29/5/2024 7:44:03 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+29/5/2024 7:44:09 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 7:44:27 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 7:44:31 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 7:44:34 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 7:44:42 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 7:45:00 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 7:45:03 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 7:45:07 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 7:45:10 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 7:55:19 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmHRFormsandPolicies,Human Resource,HR For You
+29/5/2024 7:55:21 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmHRFormsandPolicies,Human Resource,HR For You
+29/5/2024 7:55:24 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmHRFormsandPolicies,Human Resource,HR For You
+29/5/2024 7:55:24 AM,o1g50kaeqdapzmmkdlczubsb,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmHRFormsandPolicies,Human Resource,HR For You
+29/5/2024 1:00:40 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+29/5/2024 1:00:49 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+29/5/2024 1:00:56 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+29/5/2024 1:01:01 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+29/5/2024 2:22:10 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 2:22:15 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 2:45:45 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 2:45:48 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 2:45:50 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 2:45:52 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 2:46:02 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobProformaInvoiceRegister,Accounting Module,Proforma Invoice
+29/5/2024 2:46:07 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobProformaInvoiceRegister,Accounting Module,Proforma Invoice
+29/5/2024 2:46:11 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobProformaInvoiceRegister,Accounting Module,Proforma Invoice
+29/5/2024 2:46:16 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobProformaInvoiceRegister,Accounting Module,Proforma Invoice
+29/5/2024 2:46:41 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobProformaInvoiceRegister,Accounting Module,Proforma Invoice
+29/5/2024 2:46:45 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+29/5/2024 2:58:14 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 2:58:21 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 2:58:24 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 2:58:25 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:00:28 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:00:30 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:00:32 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:00:35 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:00:36 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:01:29 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:02:07 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:02:22 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:02:43 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+29/5/2024 3:02:54 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+29/5/2024 3:02:57 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+29/5/2024 3:03:04 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+29/5/2024 3:03:07 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+29/5/2024 3:11:32 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:11:35 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:11:37 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:11:38 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+29/5/2024 3:17:53 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+29/5/2024 3:34:02 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+29/5/2024 3:34:06 PM,fwj51lgkj02iaqlgeyqyy3y5,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+29/5/2024 9:09:43 PM,0as3pldc1bgkhvy4lp01whqd,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+29/5/2024 9:09:50 PM,0as3pldc1bgkhvy4lp01whqd,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+29/5/2024 9:18:59 PM,0as3pldc1bgkhvy4lp01whqd,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+29/5/2024 9:19:06 PM,0as3pldc1bgkhvy4lp01whqd,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+30/5/2024 9:12:53 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+30/5/2024 9:13:00 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+30/5/2024 9:17:54 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+30/5/2024 9:17:59 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+30/5/2024 9:44:14 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+30/5/2024 9:48:13 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+30/5/2024 10:40:40 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+30/5/2024 10:41:15 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:18 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:25 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:25 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:27 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:28 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:31 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:31 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:34 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:34 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:35 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:36 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:41:37 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:42:19 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+30/5/2024 10:42:36 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+30/5/2024 10:43:17 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+30/5/2024 10:43:54 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+30/5/2024 10:44:21 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:44:24 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:44:26 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:44:28 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:44:43 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:44:46 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:44:58 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:00 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:23 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:24 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:26 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:27 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:28 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:30 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:31 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:32 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:34 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:38 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:45:55 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+30/5/2024 10:46:02 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+30/5/2024 10:46:05 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+30/5/2024 10:46:07 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+30/5/2024 10:46:10 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+30/5/2024 10:46:11 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+30/5/2024 10:46:13 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+30/5/2024 10:46:16 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+30/5/2024 10:46:28 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+30/5/2024 10:46:37 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+30/5/2024 10:46:43 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+30/5/2024 10:46:45 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+30/5/2024 10:46:47 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+30/5/2024 10:46:47 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+30/5/2024 10:46:48 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+30/5/2024 10:46:51 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+30/5/2024 10:47:15 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:47:19 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:47:23 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:47:24 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:53:27 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:57:01 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+30/5/2024 10:57:09 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 10:57:13 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 11:05:32 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 11:05:33 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 11:09:09 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 11:09:41 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+30/5/2024 11:10:00 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+30/5/2024 11:17:40 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+30/5/2024 11:17:46 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+30/5/2024 11:33:51 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+30/5/2024 11:33:55 AM,fyzzqaqtru2pezywzcllcu4u,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+30/5/2024 12:38:00 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+30/5/2024 12:38:05 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 12:38:09 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 12:38:44 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 12:38:45 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 2:22:45 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+30/5/2024 3:48:43 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 3:48:47 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 3:48:49 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 3:48:50 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 3:48:53 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 4:02:15 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 4:02:19 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 4:02:21 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+30/5/2024 4:04:29 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+30/5/2024 4:34:49 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+30/5/2024 4:34:57 PM,1ks22yu5xanaxctkva002i2z,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+30/5/2024 8:20:45 PM,slusul0lzxpj0izhfpuclhyd,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+30/5/2024 8:20:52 PM,slusul0lzxpj0izhfpuclhyd,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+30/5/2024 8:31:19 PM,slusul0lzxpj0izhfpuclhyd,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+30/5/2024 8:35:55 PM,slusul0lzxpj0izhfpuclhyd,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+31/5/2024 10:44:41 AM,d12ab0bs33kwgv5ldf4x2r01,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+31/5/2024 10:44:53 AM,d12ab0bs33kwgv5ldf4x2r01,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+31/5/2024 10:47:26 AM,d12ab0bs33kwgv5ldf4x2r01,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+31/5/2024 10:47:32 AM,d12ab0bs33kwgv5ldf4x2r01,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+31/5/2024 10:57:27 AM,d12ab0bs33kwgv5ldf4x2r01,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+31/5/2024 10:57:34 AM,d12ab0bs33kwgv5ldf4x2r01,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+31/5/2024 11:32:09 AM,d12ab0bs33kwgv5ldf4x2r01,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+31/5/2024 2:33:53 PM,yaluocibdgzureivcycsfnsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+31/5/2024 2:34:04 PM,yaluocibdgzureivcycsfnsb,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+31/5/2024 2:38:40 PM,yaluocibdgzureivcycsfnsb,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+31/5/2024 2:38:52 PM,yaluocibdgzureivcycsfnsb,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+31/5/2024 2:38:59 PM,yaluocibdgzureivcycsfnsb,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+31/5/2024 2:39:02 PM,yaluocibdgzureivcycsfnsb,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+31/5/2024 2:39:12 PM,yaluocibdgzureivcycsfnsb,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+31/5/2024 2:39:14 PM,yaluocibdgzureivcycsfnsb,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+31/5/2024 4:46:35 PM,yaluocibdgzureivcycsfnsb,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+31/5/2024 4:46:40 PM,yaluocibdgzureivcycsfnsb,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+2/6/2024 9:34:57 PM,wuugtm2fqup313makafsfefg,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+2/6/2024 9:35:05 PM,wuugtm2fqup313makafsfefg,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+2/6/2024 9:35:42 PM,wuugtm2fqup313makafsfefg,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+2/6/2024 9:35:46 PM,wuugtm2fqup313makafsfefg,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+2/6/2024 9:35:48 PM,wuugtm2fqup313makafsfefg,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+2/6/2024 9:35:49 PM,wuugtm2fqup313makafsfefg,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 10:03:25 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+3/6/2024 10:03:31 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+3/6/2024 10:04:44 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+3/6/2024 10:04:50 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+3/6/2024 10:15:26 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+3/6/2024 10:16:39 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+3/6/2024 10:16:42 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+3/6/2024 10:16:45 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+3/6/2024 10:16:48 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+3/6/2024 10:16:52 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+3/6/2024 10:16:55 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+3/6/2024 10:17:00 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+3/6/2024 10:17:33 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+3/6/2024 10:17:41 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+3/6/2024 10:30:10 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+3/6/2024 11:27:04 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 11:27:08 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 11:27:10 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 11:27:11 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 11:27:14 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 11:36:16 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+3/6/2024 11:36:20 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+3/6/2024 11:45:03 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/WorkOrder/frmWOAccountsWorkOrderDirectory,Accounting Module,Accounts Work Order
+3/6/2024 11:45:14 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 11:45:17 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 11:45:21 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 11:45:29 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 11:45:55 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+3/6/2024 11:46:03 AM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+3/6/2024 12:06:40 PM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 12:06:43 PM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 12:06:45 PM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 12:06:46 PM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 12:06:51 PM,rilrh5k2eo1b11ixu1oenb5l,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 1:28:43 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+3/6/2024 1:28:50 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+3/6/2024 1:44:09 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 1:44:34 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 1:44:40 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 1:44:54 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 1:44:57 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 1:44:59 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 1:45:00 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 1:45:02 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 1:45:02 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 1:45:03 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 1:45:12 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 1:45:32 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+3/6/2024 1:45:38 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+3/6/2024 1:45:45 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+3/6/2024 1:45:49 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+3/6/2024 1:46:02 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 2:37:06 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 2:37:27 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 2:37:29 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 2:41:21 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 2:41:32 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+3/6/2024 2:41:40 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+3/6/2024 2:41:44 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+3/6/2024 2:41:51 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+3/6/2024 2:43:52 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+3/6/2024 2:53:10 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 2:53:17 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 2:53:29 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+3/6/2024 2:53:32 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+3/6/2024 3:41:00 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 3:41:03 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 3:41:05 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 3:41:06 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 3:48:56 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+3/6/2024 3:49:01 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+3/6/2024 4:08:22 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+3/6/2024 4:08:29 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+3/6/2024 4:19:53 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 4:20:00 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 4:26:40 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+3/6/2024 4:26:55 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+3/6/2024 4:27:53 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+3/6/2024 4:30:08 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+3/6/2024 4:30:14 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+3/6/2024 4:30:21 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+3/6/2024 4:30:35 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+3/6/2024 4:30:44 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+3/6/2024 4:30:47 PM,phplukh0piw4wj2liepgjgym,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+3/6/2024 9:44:56 PM,nla4wcgcgtj5mkc5krcs2uan,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+3/6/2024 9:45:03 PM,nla4wcgcgtj5mkc5krcs2uan,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+3/6/2024 9:45:10 PM,nla4wcgcgtj5mkc5krcs2uan,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 9:45:14 PM,nla4wcgcgtj5mkc5krcs2uan,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 9:45:16 PM,nla4wcgcgtj5mkc5krcs2uan,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 9:45:17 PM,nla4wcgcgtj5mkc5krcs2uan,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 10:38:33 PM,nla4wcgcgtj5mkc5krcs2uan,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 10:38:38 PM,nla4wcgcgtj5mkc5krcs2uan,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 10:38:40 PM,nla4wcgcgtj5mkc5krcs2uan,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+3/6/2024 10:38:41 PM,nla4wcgcgtj5mkc5krcs2uan,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 9:55:21 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+4/6/2024 9:55:30 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+4/6/2024 9:56:11 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+4/6/2024 9:56:17 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+4/6/2024 9:56:27 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+4/6/2024 9:56:44 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 9:56:49 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 9:56:51 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 9:56:53 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 10:00:30 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 10:00:33 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 10:00:39 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 10:11:24 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 10:11:30 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 10:12:40 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 10:27:33 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 10:27:35 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 10:27:36 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 10:27:57 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 10:28:01 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 11:11:59 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 11:12:03 AM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 12:06:36 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 12:06:42 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 12:06:45 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 12:06:46 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 12:07:17 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 12:07:20 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 12:12:16 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 12:12:19 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 12:39:05 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 12:39:09 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 12:39:14 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 12:39:15 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 12:39:18 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 12:42:18 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 12:42:21 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 1:14:16 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 1:14:21 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 1:26:12 PM,gkmr3gbbg2k24ecbrhykkerm,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 2:31:58 PM,rdibizolsunsecjkq4qv0fmk,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+4/6/2024 2:32:05 PM,rdibizolsunsecjkq4qv0fmk,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+4/6/2024 2:41:10 PM,rdibizolsunsecjkq4qv0fmk,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 2:41:16 PM,rdibizolsunsecjkq4qv0fmk,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 2:49:54 PM,rdibizolsunsecjkq4qv0fmk,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 4:31:10 PM,rdibizolsunsecjkq4qv0fmk,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 4:31:14 PM,rdibizolsunsecjkq4qv0fmk,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+4/6/2024 8:25:51 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+4/6/2024 8:25:59 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+4/6/2024 8:27:14 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+4/6/2024 8:27:22 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+4/6/2024 8:27:28 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+4/6/2024 8:27:40 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+4/6/2024 8:28:23 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:28:27 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:28:30 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:28:31 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:28:38 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:37:36 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+4/6/2024 8:49:54 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:49:59 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:50:01 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:50:02 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:50:02 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:50:03 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:50:03 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:50:04 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:50:05 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:50:08 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:50:10 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:52:49 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:52:53 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:52:56 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:52:57 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:53:05 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+4/6/2024 8:53:19 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+4/6/2024 8:53:30 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+4/6/2024 8:53:35 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+4/6/2024 8:53:42 PM,3isnuw2xxrlpcxphai1ba30n,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+5/6/2024 9:38:23 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+5/6/2024 9:38:31 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+5/6/2024 9:42:59 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 9:43:04 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 9:46:56 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 9:46:58 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 10:19:43 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 10:19:47 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 10:20:45 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 10:21:32 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 10:58:46 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 11:15:03 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 11:15:08 AM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 2:51:00 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+5/6/2024 2:53:06 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 2:53:10 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 3:05:02 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 3:13:13 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+5/6/2024 3:13:20 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+5/6/2024 3:13:25 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+5/6/2024 3:13:33 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+5/6/2024 3:14:07 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 3:14:59 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 3:19:27 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:19:30 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:19:34 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:19:35 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:19:51 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:19:53 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:19:55 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:20:13 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:20:14 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:20:31 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:20:33 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:20:50 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:20:51 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:20:53 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:20:54 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:21:04 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:21:06 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:21:07 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:21:08 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:21:09 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:21:20 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:21:23 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:21:45 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 3:21:46 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 5:01:08 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 5:01:09 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 5:01:11 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 5:01:13 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+5/6/2024 5:05:01 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 5:09:19 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+5/6/2024 5:09:23 PM,ufnltjywdnedkhwes1f1hmz3,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+6/6/2024 9:41:04 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+6/6/2024 9:41:12 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+6/6/2024 9:41:18 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+6/6/2024 9:41:19 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+6/6/2024 9:41:23 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+6/6/2024 9:41:37 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:41:41 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:41:43 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:41:43 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:41:44 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:41:45 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:43:33 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:46:31 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:46:33 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:46:40 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:46:41 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:47:46 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:47:47 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:47:49 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 9:47:51 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:15:34 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+6/6/2024 10:28:07 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpPersonDirectory,Corporate Secretary,ID Type Particulars
+6/6/2024 10:33:59 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:36:17 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:36:20 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:36:21 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:36:36 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:36:38 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:36:40 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:43:47 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:43:49 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:43:58 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:44:00 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:45:03 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:45:04 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:45:07 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:45:26 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:45:29 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:45:37 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:45:40 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:46:08 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:46:09 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:46:11 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:46:12 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:46:14 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:46:15 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:46:17 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:46:35 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:46:38 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:46:39 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:46:59 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:47:00 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:47:03 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:47:06 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:47:23 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:47:25 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:47:44 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:47:46 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:52:20 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:52:22 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:52:23 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:52:25 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:52:29 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:53:51 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:53:53 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:54:14 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:54:16 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:54:43 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:54:45 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:55:09 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:55:10 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:55:12 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:55:13 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:55:35 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 10:55:36 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:00:46 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:00:47 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:00:49 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:00:51 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:02:20 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:02:22 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:02:41 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:02:43 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:02:58 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:02:59 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:03:01 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:03:20 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:03:22 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:03:38 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:03:40 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:03:41 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:03:44 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:03:46 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:04:00 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:04:02 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:04:03 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:04:05 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:04:34 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:04:36 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:06:10 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:06:12 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:06:13 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 11:14:44 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+6/6/2024 11:19:31 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+6/6/2024 11:19:39 AM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+6/6/2024 12:36:12 PM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+6/6/2024 12:36:19 PM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+6/6/2024 12:36:24 PM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+6/6/2024 12:48:31 PM,qnlvz5osc3dqt3fmawvfrzr0,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+6/6/2024 3:29:04 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+6/6/2024 3:29:12 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+6/6/2024 3:44:52 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+6/6/2024 3:44:57 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+6/6/2024 4:20:08 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+6/6/2024 4:20:15 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+6/6/2024 4:20:28 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:20:33 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:20:36 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:20:37 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:23:27 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:24:36 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+6/6/2024 4:25:11 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:25:13 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:25:14 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:25:15 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:25:17 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:25:18 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:25:20 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:25:29 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:34:22 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+6/6/2024 4:34:57 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:34:59 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:35:09 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:35:34 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:35:47 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:37:21 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:37:23 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:37:27 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:38:08 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+6/6/2024 4:39:17 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+6/6/2024 4:51:23 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+6/6/2024 4:51:27 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+6/6/2024 5:26:13 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+6/6/2024 5:26:21 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+6/6/2024 5:26:23 PM,wakil1bye24zohts1dhad505,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+6/6/2024 7:44:41 PM,jl1jpclibmxt2xupjst3qw1a,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+6/6/2024 7:44:49 PM,jl1jpclibmxt2xupjst3qw1a,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+7/6/2024 9:16:46 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+7/6/2024 9:16:53 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+7/6/2024 9:33:50 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 9:33:54 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 9:33:56 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 9:33:57 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 9:34:04 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 9:34:07 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 9:34:09 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 9:34:20 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 9:40:31 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 9:40:33 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 9:40:35 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 9:41:08 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+7/6/2024 9:41:14 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+7/6/2024 9:41:57 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+7/6/2024 9:42:07 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+7/6/2024 9:42:20 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+7/6/2024 9:42:22 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+7/6/2024 9:42:23 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+7/6/2024 9:42:31 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+7/6/2024 9:42:35 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+7/6/2024 9:48:44 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+7/6/2024 9:48:48 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+7/6/2024 10:13:47 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 10:13:52 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 10:14:13 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 10:14:17 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 10:48:57 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpPersonDirectory,Corporate Secretary,ID Type Particulars
+7/6/2024 10:49:00 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpPersonDirectory,Corporate Secretary,ID Type Particulars
+7/6/2024 10:49:31 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpPersonDirectory,Corporate Secretary,ID Type Particulars
+7/6/2024 10:50:34 AM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpPersonDirectory,Corporate Secretary,ID Type Particulars
+7/6/2024 3:08:08 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 3:09:48 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpGroupDetails,Corporate Secretary,Group Details
+7/6/2024 3:10:04 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpGroupDetails,Corporate Secretary,Group Details
+7/6/2024 3:12:06 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 3:12:10 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 3:13:04 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 3:14:55 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 3:15:02 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 3:54:26 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 3:54:31 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 4:45:58 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 4:46:04 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 4:46:09 PM,sfrhuthjbled41xf1gdxh00c,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 7:17:52 PM,juahskwqjc5s143gouodwvev,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+7/6/2024 7:17:59 PM,juahskwqjc5s143gouodwvev,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+7/6/2024 7:18:15 PM,juahskwqjc5s143gouodwvev,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+7/6/2024 7:18:20 PM,juahskwqjc5s143gouodwvev,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+8/6/2024 2:36:51 PM,iz4sxb1pgwzgwblrq2tagbsp,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+8/6/2024 2:37:00 PM,iz4sxb1pgwzgwblrq2tagbsp,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+9/6/2024 11:28:40 PM,qhuklm1chjm3ekxdlh4sg3gt,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+9/6/2024 11:28:46 PM,qhuklm1chjm3ekxdlh4sg3gt,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+9/6/2024 11:41:16 PM,qhuklm1chjm3ekxdlh4sg3gt,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+9/6/2024 11:41:20 PM,qhuklm1chjm3ekxdlh4sg3gt,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+9/6/2024 11:41:22 PM,qhuklm1chjm3ekxdlh4sg3gt,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+9/6/2024 11:41:23 PM,qhuklm1chjm3ekxdlh4sg3gt,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+9/6/2024 11:41:24 PM,qhuklm1chjm3ekxdlh4sg3gt,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+9/6/2024 11:41:25 PM,qhuklm1chjm3ekxdlh4sg3gt,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+9/6/2024 11:41:27 PM,qhuklm1chjm3ekxdlh4sg3gt,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:10:13 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+10/6/2024 9:10:23 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+10/6/2024 9:11:37 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:11:42 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:11:45 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:11:46 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:13:38 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:14:23 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:14:26 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:14:29 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:14:30 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:14:43 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:15:01 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:15:13 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:15:47 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:18:42 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:18:45 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:18:46 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:18:48 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:18:49 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:25:19 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 9:25:26 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 9:28:14 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:28:17 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:28:18 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:28:19 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:28:20 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:30:51 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 9:43:58 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 11:19:19 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 11:19:23 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 11:49:17 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 11:49:23 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 11:54:50 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+10/6/2024 11:54:58 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+10/6/2024 11:55:05 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+10/6/2024 11:55:08 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSalesRegisterTransferedInvoice,Accounting Module,Transferred Invoice
+10/6/2024 11:55:33 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+10/6/2024 11:55:41 AM,0a0jcy5tkyedjjoy3t2hogpj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+10/6/2024 2:45:32 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+10/6/2024 2:45:40 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+10/6/2024 2:47:35 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 2:47:44 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 3:16:44 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 3:16:47 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 3:44:47 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 3:44:50 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 5:48:17 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+10/6/2024 5:48:58 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+10/6/2024 5:49:28 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+10/6/2024 5:49:30 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+10/6/2024 5:52:53 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+10/6/2024 5:52:53 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+10/6/2024 5:53:07 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+10/6/2024 5:53:11 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+10/6/2024 6:04:14 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 6:05:10 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 6:05:13 PM,0dbfjyah1gqb1nxhsgppj1cy,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 9:50:43 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+10/6/2024 9:50:51 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+10/6/2024 9:51:03 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 9:51:29 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 10:01:20 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 10:01:25 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 10:01:26 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 10:01:28 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 10:01:30 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+10/6/2024 10:45:08 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 10:45:12 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+10/6/2024 10:52:06 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:52:34 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:52:42 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:53:07 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:53:13 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:53:25 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:53:32 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:53:38 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:53:43 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:53:53 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:54:01 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:54:16 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:54:28 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:54:31 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:54:38 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:54:53 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:55:06 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:55:13 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:55:21 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:55:24 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:55:32 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:55:36 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:55:41 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:55:46 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:55:51 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:56:00 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:56:19 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:56:27 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:56:41 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:56:48 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:57:04 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:57:13 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+10/6/2024 10:57:20 PM,2bbiekdbcjkt31zjz2ttqsiw,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+11/6/2024 9:34:44 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+11/6/2024 9:34:52 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+11/6/2024 9:35:20 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:35:28 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:38:43 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:38:47 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:39:01 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:39:05 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:43:39 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:43:44 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 10:16:38 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 10:16:43 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 11:10:50 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+11/6/2024 11:13:06 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+11/6/2024 11:16:01 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+11/6/2024 11:16:03 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+11/6/2024 11:16:05 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+11/6/2024 11:16:09 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+11/6/2024 11:16:13 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 11:16:17 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+11/6/2024 11:16:19 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 11:16:21 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 11:16:23 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 11:16:33 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 11:16:35 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 11:16:40 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 11:25:10 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 11:25:13 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 11:25:28 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 11:28:11 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+11/6/2024 11:28:27 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+11/6/2024 11:29:33 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 11:29:42 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 11:51:11 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 11:51:15 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 11:53:57 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 11:54:00 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 11:54:04 AM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 1:12:19 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+11/6/2024 1:26:58 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 1:27:03 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 1:30:44 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 1:30:50 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 1:32:43 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 1:36:04 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 1:57:25 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 1:57:30 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 2:02:15 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 2:02:23 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 2:44:13 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 3:27:06 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 4:38:05 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 4:38:08 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 5:20:01 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+11/6/2024 5:20:08 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+11/6/2024 5:20:13 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+11/6/2024 5:20:24 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+11/6/2024 5:20:32 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+11/6/2024 6:03:39 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 6:03:42 PM,s0uem4c2na34mhqqwexw1stj,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:23:32 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+11/6/2024 9:23:39 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+11/6/2024 9:23:45 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+11/6/2024 9:27:55 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:28:00 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:30:53 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:34:21 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:40:02 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:50:04 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+11/6/2024 9:59:09 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 9:59:14 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 9:59:17 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 9:59:18 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 9:59:24 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 9:59:44 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 9:59:46 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 9:59:50 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:26:21 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+11/6/2024 10:26:29 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+11/6/2024 10:26:32 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+11/6/2024 10:43:33 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:43:37 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:43:39 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:43:40 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:43:41 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:43:42 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:43:44 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:43:51 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:44:09 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:44:12 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:44:15 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:44:17 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:44:19 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:44:21 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:44:24 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+11/6/2024 10:44:26 PM,onsdpglglqif0431wsd2jofh,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 9:40:07 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+12/6/2024 9:40:18 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+12/6/2024 9:41:41 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 9:41:49 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 9:41:58 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 9:59:55 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 9:59:59 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 10:00:01 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 10:00:03 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 10:00:04 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 10:00:06 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 10:00:10 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 10:00:38 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+12/6/2024 10:00:45 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+12/6/2024 10:00:59 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+12/6/2024 10:01:07 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+12/6/2024 10:01:25 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 10:01:26 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 10:01:30 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+12/6/2024 10:01:44 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 10:01:48 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 10:04:41 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 10:04:45 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 10:32:56 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+12/6/2024 11:23:43 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 11:24:42 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 11:37:23 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 11:39:09 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 11:39:16 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 11:39:27 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 11:39:39 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 11:40:11 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 11:40:26 AM,m1jpw3xopqm0gcxgjnzu1elu,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 2:02:49 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+12/6/2024 2:02:55 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+12/6/2024 2:03:05 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 2:40:49 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 2:40:58 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 2:41:05 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 2:41:11 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 2:41:17 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 2:41:29 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 2:59:13 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 2:59:20 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 2:59:24 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 2:59:36 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 2:59:46 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 2:59:49 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 3:02:49 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 3:02:54 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 3:08:03 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 3:08:06 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 3:11:22 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+12/6/2024 3:24:53 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 3:25:00 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 3:25:05 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 3:25:24 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 3:25:35 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 3:25:38 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 3:57:28 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 3:57:36 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+12/6/2024 3:57:40 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 3:57:43 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 3:57:45 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 3:57:45 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 3:57:46 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 3:58:13 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 3:58:29 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 4:02:54 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+12/6/2024 4:03:04 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister,Accounting Module,Sales Order
+12/6/2024 4:03:13 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 4:03:22 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 4:03:33 PM,tok0spiwdoqe0m3dllvoolka,Kalonglam,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+12/6/2024 9:09:52 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+12/6/2024 9:09:59 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+12/6/2024 9:14:15 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+12/6/2024 9:14:19 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 9:14:27 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 9:14:39 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 9:14:43 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpGroupDetails,Corporate Secretary,Group Details
+12/6/2024 9:15:01 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpGroupDetails,Corporate Secretary,Group Details
+12/6/2024 9:53:15 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 9:53:21 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 9:59:04 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+12/6/2024 9:59:09 PM,bsxmjfdu1bfad1muyqlzchxi,Kalonglam,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
