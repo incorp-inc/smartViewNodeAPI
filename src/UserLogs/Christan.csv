@@ -1279,3 +1279,399 @@ Timestamp,SessionId,UserName, AbsoluteUrl,Menu,Submenu
 12/6/2024 6:32:37 PM,riex2bhzkqerhdkzbe0qsqis,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
 12/6/2024 6:32:42 PM,riex2bhzkqerhdkzbe0qsqis,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
 12/6/2024 6:32:56 PM,riex2bhzkqerhdkzbe0qsqis,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:08:26 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:08:31 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:10:11 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+13/6/2024 9:10:17 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+13/6/2024 9:16:41 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:16:48 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:16:50 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:16:53 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:17:38 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:17:40 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:29:45 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+13/6/2024 9:38:22 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+13/6/2024 9:38:25 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+13/6/2024 9:58:19 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:22 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:26 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:29 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:32 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:35 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:38 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:42 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:44 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:48 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:50 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:51 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:55 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:58:58 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:59:01 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:59:03 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:59:05 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:59:08 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:59:10 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:59:12 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:59:17 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 9:59:24 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 10:11:56 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:12:02 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:12:39 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:16:42 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:16:48 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 10:16:54 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 10:18:01 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 10:18:13 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:18:18 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:18:31 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:18:40 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:18:55 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:19:46 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:19:48 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:19:49 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:28:33 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:28:35 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:29:18 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:29:45 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:35:10 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 10:35:12 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 11:59:33 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 11:59:34 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 11:59:35 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 11:59:59 AM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:02:01 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 12:02:05 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 12:02:06 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 12:02:09 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 12:07:03 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:07:13 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:07:15 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:07:16 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:07:17 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:07:24 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:07:40 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:07:41 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:07:42 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:07:43 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:07:44 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:07:45 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:09:40 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 12:10:13 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:11:08 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:11:18 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:11:33 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:13:11 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:17:02 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:17:04 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:17:09 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:17:47 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:17:57 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:18:08 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:18:10 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:18:11 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:18:14 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 12:18:44 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:18:52 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:19:01 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:19:03 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:19:04 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:19:05 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:20:07 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:20:09 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:20:34 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:28:27 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:28:29 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:31:42 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:31:44 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:32:19 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:32:22 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:46:26 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:46:28 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:46:30 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 12:52:50 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/leave/payslip,Human Resource,Payslip & IR8A
+13/6/2024 12:52:55 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/leave/payslip,Human Resource,Payslip & IR8A
+13/6/2024 1:59:05 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 1:59:07 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=45114,Corporate Secretary,CRM Module
+13/6/2024 1:59:10 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 1:59:14 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 1:59:46 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 1:59:51 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 1:59:53 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 1:59:57 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:00 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:03 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:05 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:07 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:10 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:13 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:15 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:17 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:18 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:19 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:23 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:26 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:30 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:32 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:35 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:52 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:55 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:00:59 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:01:03 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:01:08 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:01:10 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:01:14 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 2:22:23 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:22:29 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:32:58 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:32:59 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:33:00 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:33:04 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:33:04 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:33:06 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:33:07 PM,jix4a5u3qrherzu1n5ispq1e,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:45:51 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:45:56 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:04:57 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:08:04 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:08:05 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:08:06 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:08:16 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:09:45 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:09:48 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:09:54 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:09:58 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:10:00 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:10:02 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:10:04 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:10:08 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:10:09 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:10:12 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:11:19 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:11:20 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:11:22 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:11:29 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:11:31 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:11:40 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:11:59 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:12:13 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:12:15 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:12:16 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:12:18 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:12:40 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:12:41 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:12:42 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:13:03 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:13:05 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:13:28 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:13:29 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:13:32 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:13:58 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:14:00 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:14:51 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:14:53 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:15:01 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:15:02 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:15:03 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:15:06 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:17:05 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:17:07 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:17:37 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:17:39 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:20:06 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:20:08 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:20:09 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:20:11 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:55:10 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:55:11 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:55:13 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 6:02:34 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 6:02:40 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 6:02:46 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 6:02:50 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 6:02:54 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 6:02:57 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 6:03:14 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 6:03:17 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 6:03:26 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 6:03:29 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 6:03:35 PM,ibrya4wwqaree0dhs3djeztj,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+13/6/2024 6:23:08 PM,wfse114yf5ocqo0y4vvklgco,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 6:23:12 PM,wfse114yf5ocqo0y4vvklgco,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 6:23:16 PM,wfse114yf5ocqo0y4vvklgco,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+13/6/2024 6:23:21 PM,wfse114yf5ocqo0y4vvklgco,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 9:23:40 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:23:45 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:24:07 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler?RowId=38462&action=A,Knowledge Base,Calendar
+14/6/2024 9:24:11 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 9:24:19 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 9:24:23 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 9:24:28 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 9:24:31 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 9:24:43 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 9:25:07 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 9:25:13 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 9:30:36 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:30:49 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:30:49 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:30:53 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:31:04 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:31:35 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:31:36 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:11:50 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:11:52 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:11:54 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:24:09 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 10:24:13 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 10:24:45 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:25:34 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:25:36 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:25:54 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:30:34 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler?RowId=38463&action=A,Knowledge Base,Calendar
+14/6/2024 10:30:56 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 10:31:00 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 10:31:11 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:34:58 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:09:20 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:09:23 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:20:05 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:20:07 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:20:09 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:20:11 AM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 1:50:10 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 1:50:14 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 1:50:26 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:53:08 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 2:53:13 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 2:55:13 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:55:15 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:55:17 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:55:23 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:55:27 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:55:33 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:55:37 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:55:40 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:55:43 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:56:02 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:56:05 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 2:58:55 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdScheduler,Knowledge Base,Calendar
+14/6/2024 3:09:04 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:09:06 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:09:08 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:33:07 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:33:09 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:33:10 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:49:00 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 3:49:05 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 3:49:39 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:49:41 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 4:15:04 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 4:15:06 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 4:15:08 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 5:58:08 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 5:58:10 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 5:58:14 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 5:58:19 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 5:59:06 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 5:59:55 PM,mjqbnnzdt0viipdob43wv3kz,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 9:33:36 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:33:41 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:36:09 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:40:13 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:40:15 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:40:17 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:42:18 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:42:27 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:42:30 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:43:00 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:43:04 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:43:08 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:43:21 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:45:33 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:45:35 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:45:37 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:45:49 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:46:16 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 9:47:19 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:47:22 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:47:24 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:47:25 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:53:32 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:53:35 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:53:38 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:53:39 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:57:17 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:57:19 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:58:22 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 9:58:26 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 11:11:26 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 11:11:31 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 11:18:50 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 11:29:57 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 11:30:00 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 11:30:06 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 11:31:54 AM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:05:25 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:05:29 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:05:55 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:06:00 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:06:03 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:06:14 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:06:33 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:06:34 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 1:06:35 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:06:38 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:06:41 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:06:47 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:06:52 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:06:59 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:07:01 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:07:11 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:07:20 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:07:23 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 1:07:24 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:07:35 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:07:37 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:07:44 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:07:49 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 1:07:57 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:07:59 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:08:01 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 2:55:59 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 2:56:02 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 3:34:19 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 3:34:25 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 4:05:53 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:05:57 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:05:58 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:06:00 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:06:30 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:06:44 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:07:09 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:07:11 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:07:33 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:11:37 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:11:43 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:11:51 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:11:56 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:14:42 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:14:45 PM,po23ozhvx1mrlrv3i2kbyh2a,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:30:35 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:30:40 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:30:41 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:30:46 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:30:48 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:30:49 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:37:03 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:37:07 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:37:28 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:38:05 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:45:53 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:45:55 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:45:56 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:46:15 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 5:46:27 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 5:46:38 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 5:46:42 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 5:46:53 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 5:47:11 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+18/6/2024 5:47:24 PM,qdfkjzth2owpgzbwpsrf210g,Christan,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order

@@ -3674,3 +3674,946 @@ Timestamp,SessionId,UserName, AbsoluteUrl,Menu,Submenu
 12/6/2024 8:10:26 PM,yepqujhbamgixnqolltlbvld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
 12/6/2024 8:14:07 PM,yepqujhbamgixnqolltlbvld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
 12/6/2024 8:14:14 PM,yepqujhbamgixnqolltlbvld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 7:35:59 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 7:36:06 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 7:36:27 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 7:39:10 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 7:39:19 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 7:39:27 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 7:39:32 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 7:39:38 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 7:41:13 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 7:41:19 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 7:42:30 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 7:42:42 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 7:44:22 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 7:44:26 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 7:44:28 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 7:44:40 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 7:44:56 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 7:45:01 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 7:48:57 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 7:49:02 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 7:49:09 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 7:49:14 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 7:51:59 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 7:52:05 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 7:56:01 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 7:56:05 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 7:56:08 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 7:56:09 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 7:56:24 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 7:56:43 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 7:58:00 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=7814,Corporate Secretary,CRM Module
+13/6/2024 7:58:18 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=7814,Corporate Secretary,CRM Module
+13/6/2024 8:07:17 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:07:22 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 8:07:33 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:08:54 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:09:52 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:09:57 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+13/6/2024 8:10:05 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:10:10 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 8:24:21 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:24:27 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 8:24:44 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:25:02 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 8:25:14 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:25:21 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 8:29:27 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:29:32 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 8:30:12 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:30:17 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 8:30:22 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 8:31:23 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 8:31:47 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 8:31:51 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 8:31:56 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 8:32:07 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:32:13 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 8:32:18 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 8:32:25 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 8:33:04 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:33:09 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 8:36:54 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:36:58 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 8:37:03 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 8:37:11 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 8:37:18 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:37:25 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 8:42:26 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 8:42:32 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:13:19 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:13:26 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:13:47 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:13:56 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 9:14:03 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:14:20 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:14:25 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:27:29 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:27:34 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:30:36 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:30:49 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 9:30:59 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:36:09 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:36:16 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:38:55 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:39:10 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:39:22 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:39:33 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:39:56 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:40:07 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:40:18 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:40:27 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:40:29 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:40:57 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:45:50 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:45:55 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:46:01 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:51:45 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:51:58 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 9:52:04 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:52:16 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:54:43 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:54:47 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:54:48 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:54:49 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:54:50 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:54:51 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:54:52 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:56:51 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:56:56 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:58:00 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:58:06 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:00:02 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 10:00:12 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 10:00:21 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:00:28 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:00:51 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:00:58 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:03:46 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:03:49 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:03:51 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:03:51 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:03:52 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:03:53 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:03:54 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:04:30 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:04:47 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/Helpdesk/frmHpdStaffDirectory,Knowledge Base,Staff Directory
+13/6/2024 10:04:50 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/Helpdesk/frmHpdStaffDirectory,Knowledge Base,Staff Directory
+13/6/2024 10:05:00 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:05:07 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:09:19 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:09:25 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:10:06 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:10:17 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:13:51 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:13:58 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:14:04 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:14:09 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:22:25 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:22:31 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:23:31 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:23:36 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:28:24 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:28:29 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:42:05 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:42:11 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:51:02 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:51:20 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 10:51:28 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 10:51:36 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:51:42 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 10:53:30 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 10:53:47 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:08:50 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 11:08:55 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 11:09:04 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+13/6/2024 11:09:14 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 11:09:20 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 11:39:24 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 11:39:31 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 11:39:56 AM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:01:02 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:01:09 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 12:01:14 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:01:20 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 12:04:27 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:04:32 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 12:57:58 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:58:03 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 12:58:21 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:58:32 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 1:31:38 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 1:31:44 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 2:00:38 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:00:46 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 2:13:28 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:13:34 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 2:17:56 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:17:57 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:20:51 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:20:54 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:20:56 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:21:07 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:39:12 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:40:02 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=37381,Corporate Secretary,CRM Module
+13/6/2024 2:40:35 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=37381,Corporate Secretary,CRM Module
+13/6/2024 2:43:44 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:43:51 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 3:00:52 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:01:00 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 3:03:42 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:03:51 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:03:55 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:04:21 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:04:27 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 3:05:41 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:07:32 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:07:38 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 3:07:55 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 3:09:20 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:09:25 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 3:10:15 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:10:21 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:10:54 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:10:59 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 3:16:15 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:21:38 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:21:43 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 3:21:47 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 3:21:59 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:22:13 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:22:18 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 3:30:44 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:30:49 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 3:32:12 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:48:40 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 3:48:48 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:48:55 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:49:01 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 4:09:14 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:09:19 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 4:09:26 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 4:09:33 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 4:14:50 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:14:55 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 4:24:53 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:24:58 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 4:27:54 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:37:11 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:37:18 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:37:24 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 4:47:58 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:48:04 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 4:51:23 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:51:28 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:03:00 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:03:05 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:08:20 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:08:25 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:17:10 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:17:14 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:17:30 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:21:53 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:21:58 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:23:50 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:23:55 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:49:30 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:49:36 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:49:56 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:50:19 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:50:53 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:50:57 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:50:59 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:51:01 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:51:02 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:51:03 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:51:21 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:51:35 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:51:46 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:51:51 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:52:07 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 5:52:17 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 5:53:27 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 5:54:15 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:54:21 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:54:30 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 5:55:23 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:55:28 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:55:34 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:57:02 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:57:08 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 6:03:47 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 6:03:53 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 6:03:57 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 6:04:08 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 6:04:17 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+13/6/2024 6:04:21 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+13/6/2024 6:04:27 PM,bup3awbqftnmvekj304vbtp0,Guanhochee,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+14/6/2024 6:55:21 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 6:55:28 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 6:55:45 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 6:56:41 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 6:57:27 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 7:01:00 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 7:08:28 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 7:08:34 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 7:18:27 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 7:18:31 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 7:34:25 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 7:34:36 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 7:35:05 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 7:35:13 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 7:38:51 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 7:38:56 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 7:39:24 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:39:40 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:39:49 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:40:38 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:40:51 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:41:31 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:41:36 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 7:41:40 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:41:45 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:41:49 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:41:56 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:42:05 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:42:12 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+14/6/2024 7:42:21 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+14/6/2024 7:43:03 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 7:43:09 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 7:43:14 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 7:43:24 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 7:43:29 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 7:44:08 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 7:44:17 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 7:44:25 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 7:44:30 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:04:13 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:04:18 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:04:51 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:04:57 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:12:57 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:13:02 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:13:03 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:13:05 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:13:07 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:13:25 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:14:03 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=39125,Corporate Secretary,CRM Module
+14/6/2024 8:14:11 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=39125,Corporate Secretary,CRM Module
+14/6/2024 8:14:29 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=39125,Corporate Secretary,CRM Module
+14/6/2024 8:21:57 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=39125,Corporate Secretary,CRM Module
+14/6/2024 8:22:02 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=39125,Corporate Secretary,CRM Module
+14/6/2024 8:22:27 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:22:31 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:22:41 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:23:50 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:23:57 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 8:24:03 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 8:24:58 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+14/6/2024 8:25:05 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:25:11 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:27:56 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:28:01 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:31:05 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:31:18 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:31:34 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:31:37 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:31:39 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:31:45 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:32:07 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:32:12 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:33:51 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:35:15 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 8:36:15 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=22706,Corporate Secretary,CRM Module
+14/6/2024 8:36:29 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=22706,Corporate Secretary,CRM Module
+14/6/2024 8:37:06 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:37:44 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:37:49 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:39:58 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:40:02 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:40:07 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+14/6/2024 8:40:16 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+14/6/2024 8:40:25 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:40:30 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:42:13 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:42:37 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 8:43:35 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 8:43:39 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:43:44 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:44:32 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:44:38 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:45:07 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 8:45:15 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 8:45:26 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:45:31 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:46:03 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:46:08 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:46:56 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:47:01 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:47:53 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:47:58 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:48:30 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:48:36 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 8:49:38 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 8:49:43 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:20:58 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:21:04 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:23:10 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:23:47 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 9:23:55 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 9:24:06 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:24:10 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:24:16 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:25:55 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 9:26:09 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 9:26:17 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:26:23 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:28:25 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 9:28:35 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 9:28:43 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:28:49 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:33:01 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:33:06 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:33:11 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 9:33:17 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 9:33:30 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:33:35 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:34:50 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 9:34:55 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 9:35:10 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:35:15 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:40:41 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:40:46 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:43:28 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 9:43:46 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 9:43:53 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:43:59 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:55:59 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:56:06 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:09:11 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:09:15 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:09:17 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:09:17 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:09:20 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:10:15 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:10:20 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:10:25 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:21:47 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:21:52 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:23:05 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:23:10 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:30:35 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:30:40 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:30:56 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:31:03 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 10:31:09 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 10:31:16 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+14/6/2024 10:31:27 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:31:32 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:47:53 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:47:59 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:48:03 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 10:50:48 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:50:55 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:54:13 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:54:19 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:55:25 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 10:55:43 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:55:49 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:55:58 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 10:56:12 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:56:18 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:56:25 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+14/6/2024 10:56:28 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+14/6/2024 10:56:38 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:56:43 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 11:20:10 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:20:15 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 11:20:20 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 11:20:51 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:20:55 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:20:57 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:20:58 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:20:59 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:21:16 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:21:24 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:21:32 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:21:41 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:21:45 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:21:51 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 11:26:41 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 11:26:48 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 11:27:10 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:27:16 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 11:32:01 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:32:07 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 11:32:37 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:32:41 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 11:36:46 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:36:52 AM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 12:20:34 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 12:20:40 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 12:20:57 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 12:21:05 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 12:21:16 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 12:21:22 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 12:36:27 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 12:36:33 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 1:21:13 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 1:21:19 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 1:21:24 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 1:33:30 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 1:33:34 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 1:33:39 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 1:53:27 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 1:53:31 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:07:21 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:07:26 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:12:20 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:12:26 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:12:34 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 2:13:58 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:14:03 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:21:12 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 2:21:19 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 2:21:43 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:21:48 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:24:18 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:24:23 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:24:30 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 2:41:23 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:41:28 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:41:33 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 2:41:39 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 2:54:08 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:54:13 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:54:18 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 2:54:22 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 2:56:10 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:56:16 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:58:51 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 2:58:59 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 3:00:06 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:00:13 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 3:07:54 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:08:00 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 3:09:50 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:09:55 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 3:17:31 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 3:17:59 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 3:18:53 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 3:18:57 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:19:03 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 3:34:59 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:35:05 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 3:48:25 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:48:31 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 3:50:35 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:56:57 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:57:01 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 4:02:55 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 4:03:03 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 4:03:10 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 4:03:16 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 4:03:20 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 4:03:25 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 4:07:21 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 4:07:26 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 4:07:32 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 4:20:36 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 4:20:43 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 4:23:36 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 4:25:56 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 4:41:36 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 4:41:41 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 4:41:55 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 5:02:01 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 5:02:08 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 5:03:14 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 5:05:33 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 5:05:38 PM,hwttbyv5jzutqwuko5hychur,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 8:36:59 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:37:07 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 8:37:19 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:37:31 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:37:42 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:38:04 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:39:16 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:39:35 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:40:22 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:41:04 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:46:07 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:46:41 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:47:46 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:49:21 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 8:57:35 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 8:57:39 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 8:57:40 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 8:57:41 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 8:57:42 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 8:59:41 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 8:59:54 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:00:46 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=25018,Corporate Secretary,CRM Module
+18/6/2024 9:00:56 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=25018,Corporate Secretary,CRM Module
+18/6/2024 9:05:29 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=25018,Corporate Secretary,CRM Module
+18/6/2024 9:05:48 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:05:57 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:06:11 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:08:10 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:10:01 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:10:06 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:10:12 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:21:20 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:21:25 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:27:58 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:28:04 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:28:06 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:28:07 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:28:07 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:28:28 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:28:52 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=7026,Corporate Secretary,CRM Module
+18/6/2024 9:28:58 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=7026,Corporate Secretary,CRM Module
+18/6/2024 9:29:37 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=7026,Corporate Secretary,CRM Module
+18/6/2024 9:33:18 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=7026,Corporate Secretary,CRM Module
+18/6/2024 9:33:28 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:33:34 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:34:03 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:34:24 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:36:40 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:36:58 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:38:05 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:38:09 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:38:10 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:38:11 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:38:12 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:38:13 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 9:38:26 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 9:38:33 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 9:40:02 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 9:42:12 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:42:17 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:42:31 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:42:37 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:42:59 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:43:05 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:43:32 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:43:38 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:51:43 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:51:48 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:54:01 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:54:08 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 10:05:16 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:05:21 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:05:23 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:05:25 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:06:18 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:07:55 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:08:08 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:08:13 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 10:13:32 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:16:50 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 10:17:02 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:17:08 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 10:20:10 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:20:16 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 10:20:54 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 10:21:02 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+18/6/2024 10:21:23 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+18/6/2024 10:21:30 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+18/6/2024 10:21:35 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+18/6/2024 10:21:39 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+18/6/2024 10:21:49 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+18/6/2024 10:27:50 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:27:56 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 10:31:41 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:31:48 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 10:31:53 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 10:32:09 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 10:32:28 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 10:32:58 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 10:33:18 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 10:33:26 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:33:31 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:33:33 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:33:35 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:34:33 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:34:39 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 10:39:01 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:39:07 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 11:10:39 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:10:45 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 11:19:51 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:19:57 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:20:02 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 11:43:36 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:43:41 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 11:44:28 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:44:49 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 11:46:44 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 11:47:57 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 11:48:12 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:48:17 AM,gjn31jv3jh1z5mngadp2brld,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 12:48:01 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 12:48:07 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 12:48:13 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 12:48:18 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 12:54:21 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 12:54:48 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 12:54:53 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 12:55:03 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 12:59:00 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 12:59:13 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 12:59:39 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 12:59:44 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 12:59:51 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 12:59:56 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 1:00:00 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 1:01:42 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 1:01:47 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 1:01:54 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 1:02:12 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 1:02:17 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 1:02:25 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 1:04:02 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 1:04:08 PM,phexiui3t0u4owat1yl5vp32,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 2:56:51 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 2:56:57 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 2:57:02 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 2:57:28 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 2:57:45 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 2:57:53 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 2:58:55 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 2:59:00 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 2:59:15 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 2:59:19 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 2:59:25 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 2:59:31 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:01:45 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 3:02:16 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:02:39 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:04:00 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:04:08 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:04:15 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:04:19 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:04:24 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:04:33 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:06:48 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:06:54 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:07:04 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:07:10 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:07:16 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 3:07:25 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:07:31 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:08:10 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:08:16 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:08:44 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:08:47 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:08:57 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:09:02 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:10:47 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:19:41 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Helpdesk/frmHpdStaffDirectory,Knowledge Base,Staff Directory
+18/6/2024 3:19:46 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Helpdesk/frmHpdStaffDirectory,Knowledge Base,Staff Directory
+18/6/2024 3:20:33 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:20:38 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:29:35 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:29:40 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:32:54 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:32:59 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:33:19 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:33:22 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:33:29 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:33:33 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:33:44 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:33:51 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 3:34:16 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:34:22 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:35:55 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 3:36:10 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:37:04 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 3:37:08 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
+18/6/2024 3:37:21 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:37:27 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:39:57 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:40:55 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:40:57 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:40:58 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:41:23 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:41:26 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:44:02 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:44:53 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:45:29 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:46:25 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:46:49 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:50:09 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:50:11 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:50:13 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:50:15 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:50:16 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:50:27 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:51:28 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:51:37 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:51:39 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:51:48 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:52:42 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 3:52:55 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:52:57 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:00:15 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:02:50 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:04:04 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:04:06 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:04:20 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:05:30 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:05:42 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:05:43 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:05:45 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:07:28 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:09:02 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:09:12 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:09:15 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:09:17 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:09:29 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:10:58 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:11:54 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:12:15 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:12:43 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:12:59 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 4:13:34 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:13:39 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:14:38 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:15:42 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:15:47 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 4:16:01 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:16:03 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:16:18 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:16:47 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:18:36 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:19:27 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:19:29 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:19:31 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:19:34 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:19:55 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:21:47 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:22:00 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdTicketFollowup?EmailHelpdesk_category_id=4,Corporate Secretary,Rikvin Support Followup
+18/6/2024 4:22:13 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:22:15 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:23:33 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:31:57 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:32:03 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 4:32:23 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:33:21 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:33:26 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 4:33:36 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:33:41 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:33:42 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:33:43 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:33:44 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:33:45 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:33:46 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:33:47 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:34:44 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:34:53 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:35:08 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:35:23 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:36:42 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:36:48 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:36:57 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:37:03 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:37:09 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 4:39:28 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:45:41 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:45:47 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 4:46:01 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:50:43 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:50:48 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 4:50:52 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 4:51:05 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:51:20 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:51:26 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 4:56:31 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 4:56:37 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:56:43 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:06:54 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:08:17 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 5:08:27 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 5:08:37 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:08:42 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:10:04 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:10:11 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:13:13 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 5:13:29 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 5:13:44 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:13:50 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:17:10 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:17:13 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:17:15 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:17:16 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:17:36 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:17:41 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:18:43 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:20:26 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:20:29 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:20:31 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:20:31 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:20:33 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:20:48 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:21:34 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:21:49 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:21:51 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:22:05 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:22:11 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:24:34 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:24:52 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:25:41 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=4086,Corporate Secretary,CRM Module
+18/6/2024 5:26:22 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=4086,Corporate Secretary,CRM Module
+18/6/2024 5:27:07 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:27:12 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:28:09 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:33:03 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:36:43 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:36:48 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:37:44 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 5:37:51 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 5:39:24 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+18/6/2024 5:39:45 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success%3a+Response+posted+successfully+-+InCorp+Payroll!,InCorp Tickets,Payroll
+18/6/2024 5:39:49 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:39:55 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:40:38 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:40:41 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:40:42 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:40:43 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:40:44 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:40:46 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:43:35 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:44:00 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:44:16 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:44:21 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:44:35 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:44:46 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:44:49 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:44:52 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:44:53 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:45:05 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:45:11 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:50:03 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 5:50:36 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 5:51:30 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:51:35 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:51:41 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 5:52:31 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:52:36 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:53:56 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 5:54:16 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 5:55:53 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 5:56:14 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 5:56:19 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 5:56:25 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 5:56:30 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 5:56:35 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 5:56:40 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 5:57:11 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 6:00:43 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 6:01:02 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 6:02:01 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 6:02:07 PM,4iq1mjlfkgjxm2inrzmv5tab,Guanhochee,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard

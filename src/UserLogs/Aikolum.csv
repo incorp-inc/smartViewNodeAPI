@@ -2178,3 +2178,521 @@ Timestamp,SessionId,UserName, AbsoluteUrl,Menu,Submenu
 12/6/2024 8:19:38 PM,cfd5skugi0xzet12xqv24s4a,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
 12/6/2024 8:30:02 PM,cfd5skugi0xzet12xqv24s4a,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
 12/6/2024 8:30:05 PM,cfd5skugi0xzet12xqv24s4a,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 9:55:27 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:55:33 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:56:23 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:56:50 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:56:57 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:57:14 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:01:41 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:06:15 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:06:19 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:06:22 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:06:24 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:06:25 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:06:26 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:06:29 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:06:32 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:06:34 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:06:35 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:06:38 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:06:40 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:09:51 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:10:08 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:11:32 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:14:43 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:14:50 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:15:38 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:15:51 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:44:22 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:45:25 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:45:38 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:45:38 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:45:39 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:45:40 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:46:23 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:46:26 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:50:50 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:07:31 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/Documentbuilder/frmDocDoucmentGenerator,Secretarial Documents,Document Builder
+13/6/2024 11:07:39 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/Documentbuilder/frmDocDoucmentGenerator,Secretarial Documents,Document Builder
+13/6/2024 11:07:42 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/Documentbuilder/frmDocDoucmentGenerator,Secretarial Documents,Document Builder
+13/6/2024 11:07:54 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/Documentbuilder/frmDocDoucmentGenerator,Secretarial Documents,Document Builder
+13/6/2024 11:07:55 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/Documentbuilder/frmDocDoucmentGenerator,Secretarial Documents,Document Builder
+13/6/2024 11:08:06 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/Documentbuilder/frmDocDoucmentGenerator,Secretarial Documents,Document Builder
+13/6/2024 11:08:10 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/Documentbuilder/frmDocDoucmentGenerator,Secretarial Documents,Document Builder
+13/6/2024 11:08:13 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/Documentbuilder/frmDocDoucmentGenerator,Secretarial Documents,Document Builder
+13/6/2024 11:23:56 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 11:24:28 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 11:28:35 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:28:41 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:29:06 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:29:16 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:29:20 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:29:32 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:32:46 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:36:21 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:36:42 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:38:26 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:38:57 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:45:11 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:45:14 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:45:18 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:45:19 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:45:21 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:45:36 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:45:37 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:48:48 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:49:00 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:51:13 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:56:00 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:58:38 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:58:39 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:58:39 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:58:40 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:59:15 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:59:16 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:59:18 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:59:19 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:59:52 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:59:53 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:59:55 AM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 12:02:19 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:05:02 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:06:47 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:10:03 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:10:33 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:11:18 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 12:11:21 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 12:11:22 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 12:11:23 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 12:12:12 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 1:58:26 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 1:59:00 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 1:59:20 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:00:25 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:02:43 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:05:05 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:05:08 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:05:11 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:05:11 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:05:13 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:05:14 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:05:42 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:12:50 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:14:29 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:14:45 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:18:39 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:18:48 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:19:19 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:19:23 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:19:25 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:19:28 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:21:56 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:21:59 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:23:27 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:23:51 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:24:32 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:33:53 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:46:22 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:46:57 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+13/6/2024 2:47:40 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:47:42 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:47:44 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:47:44 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:47:45 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:47:46 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:47:47 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:47:53 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:49:16 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:51:56 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:52:00 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:54:10 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:01:36 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:01:42 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:01:44 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:01:46 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:08:33 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:08:36 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:13:03 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:16:16 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:16:32 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:16:34 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:16:36 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:16:38 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:16:53 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:19:05 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:19:14 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 3:19:20 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 3:23:41 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:23:43 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:23:45 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:23:46 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:23:47 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:23:49 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:08:19 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:09:15 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:13:26 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:13:29 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:13:30 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:13:31 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:13:33 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:13:54 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:13:59 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:22:03 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:22:41 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:23:01 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:26:18 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:37:11 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:57:25 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:57:32 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:57:36 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:57:41 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:57:47 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:57:51 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:58:11 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:01:49 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:01:51 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:01:52 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:01:53 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:01:58 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:01:59 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:09:23 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:09:37 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:09:48 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:14:44 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:14:56 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:15:32 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:19:29 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+13/6/2024 5:22:14 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:22:20 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:22:25 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:26:19 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:27:29 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:28:13 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:28:19 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:29:25 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:45:47 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:45:52 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:52:33 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:52:36 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:52:36 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:52:38 PM,tjfveqgl1bgavvziotmtlmif,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:24:36 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:24:41 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:28:33 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:34:26 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:34:38 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:40:09 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:45:51 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 9:45:54 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 9:57:59 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:58:05 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:58:06 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:58:07 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:58:15 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:26:28 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+14/6/2024 10:26:44 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:26:49 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+14/6/2024 10:26:50 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+14/6/2024 10:26:54 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+14/6/2024 10:27:48 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:30:51 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:31:12 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:16 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:20 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:29 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:30 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:32:33 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+14/6/2024 10:32:35 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+14/6/2024 10:32:36 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+14/6/2024 10:32:37 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+14/6/2024 10:32:40 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+14/6/2024 10:32:41 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+14/6/2024 10:32:42 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+14/6/2024 10:32:46 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+14/6/2024 10:33:58 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/MYOB/frmMYOBRefundAdjustmentRegister,Accounting Module,Credit Note
+14/6/2024 10:34:06 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:34:10 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:34:17 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:34:22 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:34:26 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:34:31 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:34:36 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:34:42 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:34:47 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:34:52 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:36:16 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 10:43:52 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:44:50 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+14/6/2024 10:44:57 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:45:11 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:06:43 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:21:31 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:21:40 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:21:51 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:24:01 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:24:35 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:27:49 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:41:48 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:41:53 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:46:14 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:46:24 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:46:42 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:46:46 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:46:46 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:46:47 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:46:49 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:48:39 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:49:26 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:49:51 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:51:56 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:54:56 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:57:48 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 11:58:09 AM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 12:08:42 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 12:08:43 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 12:08:45 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 1:20:07 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 1:20:13 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 1:21:38 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 1:21:41 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 1:21:41 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 1:21:43 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 1:29:56 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 1:31:52 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 1:31:56 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 1:59:50 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:01:31 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:01:48 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:03:42 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:03:47 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:04:04 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:08:07 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:08:10 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:08:12 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:08:14 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:08:15 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:08:17 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:08:25 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:08:26 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:08:28 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:08:29 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:08:30 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:22:20 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:22:35 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:22:42 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:27:42 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:28:15 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:29:08 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:34:59 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:41:10 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:59:51 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:59:57 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 3:00:22 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:00:26 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:00:27 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:00:28 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:00:29 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:02:37 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:03:32 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=19968,Corporate Secretary,CRM Module
+14/6/2024 3:10:34 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:12:49 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=19968,Corporate Secretary,CRM Module
+14/6/2024 3:12:52 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=19968,Corporate Secretary,CRM Module
+14/6/2024 3:12:53 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=19968,Corporate Secretary,CRM Module
+14/6/2024 3:17:17 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:20:18 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:33:28 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:36:54 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:36:59 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:37:00 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 3:37:05 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:37:06 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:37:07 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:43:38 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:45:06 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:50:42 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:54:35 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:54:41 PM,lazg5g1l3jya4n4k53xrfguo,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:54:28 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:54:35 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:55:18 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:56:42 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:57:14 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:00:06 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:00:41 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:01:28 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:04:49 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:04:53 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:04:54 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:04:56 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:04:59 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:05:00 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:05:14 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:16:36 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:17:16 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:18:21 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:18:24 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:18:25 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:18:26 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:36:10 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:42:52 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:43:25 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:47:08 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:47:59 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:48:13 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:50:08 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:54:51 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 10:59:46 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:59:49 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:59:50 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:59:51 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:59:51 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 10:59:52 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:09:49 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:10:12 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:19:44 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:19:50 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 11:20:12 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:20:15 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:20:17 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:20:18 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:21:44 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:22:15 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:26:08 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:26:15 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 11:32:49 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:32:54 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 11:39:04 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:39:06 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:39:10 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 11:39:15 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 11:43:16 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:43:18 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:43:19 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:43:19 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:43:22 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:43:24 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:44:12 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 11:44:19 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=40748,Corporate Secretary,CRM Module
+18/6/2024 11:44:24 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=40748,Corporate Secretary,CRM Module
+18/6/2024 11:45:00 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+18/6/2024 11:48:46 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+18/6/2024 11:48:49 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+18/6/2024 11:48:49 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+18/6/2024 11:48:50 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+18/6/2024 11:48:52 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+18/6/2024 11:54:51 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+18/6/2024 11:55:35 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+18/6/2024 11:55:39 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+18/6/2024 11:55:41 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+18/6/2024 11:55:42 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+18/6/2024 11:55:46 AM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+18/6/2024 1:38:04 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:39:09 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:39:19 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:39:52 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 1:39:57 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 1:40:50 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 1:41:28 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 1:41:49 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 1:43:05 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:43:08 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:43:11 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:43:38 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:43:47 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:45:51 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:52:31 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 1:57:36 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:57:38 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:57:39 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:57:41 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:57:43 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:57:44 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:58:04 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 1:58:46 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 2:01:24 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 2:01:28 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 2:30:57 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 2:31:26 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 2:32:58 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 2:33:25 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 2:33:30 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 2:45:03 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 2:52:10 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 2:52:14 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 2:53:15 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 2:53:19 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 2:53:29 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 3:01:01 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:01:19 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:01:22 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:01:23 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:01:24 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:02:50 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:03:55 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:07:00 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:07:07 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:08:01 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:08:07 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:12:59 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:13:05 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:15:37 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:16:43 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:17:58 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:18:02 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 3:18:05 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 3:18:53 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:40:19 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:40:45 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:40:48 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:40:50 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:40:53 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:40:54 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 3:45:27 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:45:35 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 3:47:58 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:48:26 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:50:12 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:52:02 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:52:24 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 3:52:40 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 3:54:58 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 4:02:43 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:05:29 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:05:45 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:17:55 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:17:59 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:18:04 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:18:05 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:18:06 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:18:49 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:20:05 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:35:23 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:38:58 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:39:04 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 4:47:59 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:48:05 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:48:10 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:48:10 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:48:11 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:48:11 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 4:48:17 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:48:19 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 4:48:58 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 4:49:03 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:12:30 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:12:36 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:24:31 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:24:36 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:25:44 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:25:50 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:26:25 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 5:26:31 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 5:26:36 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:26:38 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:26:39 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:26:40 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:26:46 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+18/6/2024 5:53:46 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 5:53:50 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+18/6/2024 6:14:55 PM,xpm4nszsg2spxrrgcxbv2qlf,Aikolum,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard

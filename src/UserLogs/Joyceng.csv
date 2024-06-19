@@ -1658,3 +1658,334 @@ Timestamp,SessionId,UserName, AbsoluteUrl,Menu,Submenu
 12/6/2024 5:41:39 PM,pgjrcvt3qbce53dw40nsxqsw,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=16531,Corporate Secretary,CRM Module
 12/6/2024 5:41:57 PM,pgjrcvt3qbce53dw40nsxqsw,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
 12/6/2024 5:42:00 PM,pgjrcvt3qbce53dw40nsxqsw,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 9:19:27 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:19:40 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 9:19:52 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:19:57 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:37:08 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:37:13 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 9:37:17 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 9:37:45 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:39:00 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:39:38 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:39:42 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 9:39:46 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 9:41:48 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=11182,Corporate Secretary,CRM Module
+13/6/2024 9:43:43 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=11182,Corporate Secretary,CRM Module
+13/6/2024 9:43:45 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=11182,Corporate Secretary,CRM Module
+13/6/2024 9:43:47 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=11182,Corporate Secretary,CRM Module
+13/6/2024 9:52:03 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:56:10 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:59:04 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 9:59:13 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:02:25 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:02:43 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:02:47 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:05:10 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 10:08:05 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=30645,Corporate Secretary,CRM Module
+13/6/2024 10:14:18 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:14:21 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:18:03 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:18:07 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:21:09 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:21:14 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:21:18 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:24:05 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:24:11 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:51:57 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=9,Mail Support,Helpdesk MailSupport
+13/6/2024 10:54:02 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=9,Mail Support,Helpdesk MailSupport
+13/6/2024 10:54:17 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=9,Mail Support,Helpdesk MailSupport
+13/6/2024 10:54:26 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=114,InCorp Tickets,MailSupport
+13/6/2024 10:55:03 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=114,InCorp Tickets,MailSupport
+13/6/2024 10:55:09 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=114,InCorp Tickets,MailSupport
+13/6/2024 10:55:44 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 10:56:01 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:00:50 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:01:12 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:02:48 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:02:51 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:03:30 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:03:39 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:07:17 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:07:52 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:09:50 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:09:51 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:09:54 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:12:03 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:12:09 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:12:17 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:12:24 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:12:55 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 11:12:59 AM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:08:41 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:08:44 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:09:10 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:09:13 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:09:40 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:09:43 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:10:36 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:10:39 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:11:13 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:11:15 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:11:40 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:11:43 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:12:05 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=25730,Corporate Secretary,CRM Module
+13/6/2024 12:12:29 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=25730,Corporate Secretary,CRM Module
+13/6/2024 12:12:46 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:13:10 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:13:12 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:13:37 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:13:41 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:14:08 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:14:11 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:14:51 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:14:53 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:15:37 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:15:39 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:17:41 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:17:47 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 12:18:02 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:18:10 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:18:13 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:18:46 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 12:18:51 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 12:18:56 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:19:01 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:19:32 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=9957,Corporate Secretary,CRM Module
+13/6/2024 12:19:42 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=9957,Corporate Secretary,CRM Module
+13/6/2024 12:20:27 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=9957,Corporate Secretary,CRM Module
+13/6/2024 12:20:35 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:20:36 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:20:44 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:30:35 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:30:39 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:31:12 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:31:17 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:32:17 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 12:32:20 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:05:20 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:05:23 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:05:27 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:05:59 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:06:09 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:12:37 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:12:40 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:13:05 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:13:11 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:15:06 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:15:11 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:16:04 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:16:10 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 2:35:32 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:35:36 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:35:49 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=14800,Corporate Secretary,CRM Module
+13/6/2024 2:38:33 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=7959,Corporate Secretary,CRM Module
+13/6/2024 2:39:13 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 2:39:17 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 2:39:26 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:39:32 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:41:53 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:42:01 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:44:04 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:44:08 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:48:54 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:48:58 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:55:06 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:55:09 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:57:10 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:57:15 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:59:48 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 2:59:52 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:10:02 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:11:06 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:12:21 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:12:53 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:16:39 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:16:42 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:21:48 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:22:19 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:24:45 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:38:51 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:47:56 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:48:01 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:48:17 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12231,Corporate Secretary,CRM Module
+13/6/2024 3:53:10 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 3:53:17 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:01:10 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:01:16 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:03:00 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:03:10 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:03:43 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:03:46 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:04:28 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:04:31 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:55:08 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 4:55:14 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 4:56:28 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:56:31 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 4:56:43 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12231,Corporate Secretary,CRM Module
+13/6/2024 5:03:50 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:04:07 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:05:06 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:05:14 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:08:12 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:14:32 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:14:37 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:17:49 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:17:53 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:19:10 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:19:13 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:29:39 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:29:43 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:30:04 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:30:07 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:32:13 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:32:17 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:32:41 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:32:44 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:32:47 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:33:08 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:33:14 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:33:18 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:33:41 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=5661,Corporate Secretary,CRM Module
+13/6/2024 5:36:08 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=5661,Corporate Secretary,CRM Module
+13/6/2024 5:37:26 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:37:30 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:38:52 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:39:00 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:39:13 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:39:19 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:39:49 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:39:52 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:40:04 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:40:07 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:43:56 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:44:01 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:52:33 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:52:33 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:52:38 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:54:32 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+13/6/2024 5:54:48 PM,rtucq5ie5vvy4apksty4eqhx,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 9:23:47 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:23:54 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:34:56 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:35:06 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:35:12 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:46:13 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:47:36 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=17285,Corporate Secretary,CRM Module
+14/6/2024 9:49:23 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:49:46 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 9:49:50 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 9:53:07 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 9:59:15 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:59:20 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 10:00:32 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:00:33 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:00:40 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:02:36 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=16697,Corporate Secretary,CRM Module
+14/6/2024 10:02:56 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:03:24 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:03:30 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:14:25 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:14:29 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:14:42 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:15:17 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:15:53 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:15:57 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:16:01 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:16:07 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:16:11 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:16:14 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:16:18 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:16:21 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:18:10 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:18:14 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:19:50 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:19:56 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:20:56 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=39838,Corporate Secretary,CRM Module
+14/6/2024 10:22:36 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=39838,Corporate Secretary,CRM Module
+14/6/2024 10:22:49 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=39838,Corporate Secretary,CRM Module
+14/6/2024 10:23:08 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=39838,Corporate Secretary,CRM Module
+14/6/2024 10:23:22 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:26:23 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:26:26 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:26:27 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:26:29 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:27:16 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:27:20 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:27:24 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=35102,Corporate Secretary,CRM Module
+14/6/2024 10:29:53 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:31:15 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:31:20 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:37:54 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:37:58 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:38:51 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:39:09 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:39:27 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:39:30 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:39:44 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:39:47 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:43:00 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:43:19 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:44:21 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:44:25 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:45:23 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 10:45:28 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:08:05 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:08:24 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:09:07 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:09:10 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:09:16 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:09:19 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:10:01 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/reports/reports_list,Reports Module,Reports
+14/6/2024 11:19:19 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:20:05 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:20:08 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:25:23 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/reports/reports_list,Reports Module,Reports
+14/6/2024 11:40:19 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:40:22 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:40:45 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=9882,Corporate Secretary,CRM Module
+14/6/2024 11:54:40 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:54:50 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:55:31 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 11:55:40 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 11:59:54 AM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 12:00:06 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 12:00:11 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 12:15:24 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 12:15:26 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 12:15:28 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 12:15:29 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 12:15:30 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 12:19:09 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 12:19:34 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12548,Corporate Secretary,CRM Module
+14/6/2024 2:27:51 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:27:58 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:28:04 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:29:17 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:35:23 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:35:29 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:35:57 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:36:00 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:40:16 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:43:50 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:44:08 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:44:11 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:44:26 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=14800,Corporate Secretary,CRM Module
+14/6/2024 2:44:50 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=14800,Corporate Secretary,CRM Module
+14/6/2024 2:49:43 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:49:52 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:50:54 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:50:59 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 2:53:23 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:53:27 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:53:47 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:53:49 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:54:12 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:54:15 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:54:44 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 2:54:45 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 2:54:50 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 3:12:05 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:52:22 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details
+14/6/2024 3:52:29 PM,zqh4lf3idiby1mn4x0zdjvsz,Joyceng,https://portal.incorp.asia/myportal/CompanyModule/frmCmpCompanyDirectory,Corporate Secretary,Company Details

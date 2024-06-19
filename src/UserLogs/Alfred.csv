@@ -2301,3 +2301,447 @@ Timestamp,SessionId,UserName, AbsoluteUrl,Menu,Submenu
 12/6/2024 5:04:14 PM,ffrvjqhx25sgisqfm0cewyuk,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
 12/6/2024 5:04:32 PM,ffrvjqhx25sgisqfm0cewyuk,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
 12/6/2024 5:04:36 PM,ffrvjqhx25sgisqfm0cewyuk,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:17:38 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:17:43 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 9:18:32 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:19:58 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 9:21:05 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:21:09 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:21:11 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:21:13 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 9:24:19 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:24:27 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 9:31:38 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 10:06:07 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+13/6/2024 10:06:24 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success%3a+Response+posted+successfully+-+InCorp+Payroll!,InCorp Tickets,Payroll
+13/6/2024 10:06:29 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success%3a+Response+posted+successfully+-+InCorp+Payroll!,InCorp Tickets,Payroll
+13/6/2024 10:14:01 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:17:28 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 10:33:54 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+13/6/2024 10:34:25 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success%3a+Response+posted+successfully+-+InCorp+Payroll!,InCorp Tickets,Payroll
+13/6/2024 10:35:41 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+13/6/2024 10:39:55 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 10:40:03 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 10:57:19 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 10:57:24 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:58:53 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:59:24 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:59:28 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:59:30 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:59:31 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 10:59:47 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:00:03 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:00:06 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:00:13 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:01:20 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=39028,Corporate Secretary,CRM Module
+13/6/2024 11:01:42 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:01:57 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:05:00 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobProformaInvoiceRegister,Accounting Module,Proforma Invoice
+13/6/2024 11:05:05 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+13/6/2024 11:05:10 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+13/6/2024 11:06:46 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+13/6/2024 11:06:51 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+13/6/2024 11:14:18 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=39028,Corporate Secretary,CRM Module
+13/6/2024 11:14:40 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:16:35 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+13/6/2024 11:16:43 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:17:17 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:17:25 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 11:18:26 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:18:32 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:18:35 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:18:37 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:18:40 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:19:02 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:19:08 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:24:48 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:24:57 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:25:05 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:25:11 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:25:23 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:26:44 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:28:09 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:28:14 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:28:14 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:28:15 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:28:17 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:28:24 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:28:27 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:31:35 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:31:42 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:31:55 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:32:14 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:32:23 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:32:30 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:32:34 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:36:51 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:38:50 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:38:54 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:38:56 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:49:41 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:53:59 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:54:30 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 11:55:44 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12289,Corporate Secretary,CRM Module
+13/6/2024 11:55:55 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12289,Corporate Secretary,CRM Module
+13/6/2024 11:58:18 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12289,Corporate Secretary,CRM Module
+13/6/2024 11:58:25 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 11:58:33 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/ChasePayment/frmCHPPaymentAlertRegister,Credit Control,Payment Alert
+13/6/2024 11:59:52 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 11:59:56 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+13/6/2024 11:59:59 AM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 12:00:27 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 12:00:32 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 12:02:46 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 12:03:18 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 12:04:25 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 12:04:44 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 12:04:59 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 12:05:13 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 12:05:30 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 12:05:40 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/IncomingReceipts/frmINCIncomingChequeRegister?MYOBIncomingCategoryId=1,Credit Control,Incoming Receipts
+13/6/2024 12:05:51 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 12:05:59 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 12:06:20 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 12:06:25 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 12:06:31 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 12:06:41 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 12:06:51 PM,dd4x4cskbmb2gdthsf23bb5t,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 1:31:45 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 1:31:50 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 1:32:24 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 1:32:37 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 1:32:43 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 1:35:30 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+13/6/2024 1:37:20 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 1:57:09 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 1:57:14 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 2:00:01 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:00:15 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:00:20 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:00:22 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:00:24 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:01:25 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:03:39 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:07:02 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:07:16 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:07:29 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 2:07:46 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:08:00 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:12:43 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:12:50 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:14:30 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:14:36 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:14:44 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:15:16 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:15:22 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:16:34 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:17:12 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:17:19 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:18:47 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:21:40 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:21:44 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:23:27 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:24:17 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:24:27 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:24:58 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 2:44:28 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:44:44 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:44:57 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:50:20 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 2:51:16 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:02:18 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+13/6/2024 3:09:28 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:09:43 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:10:18 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 3:13:20 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:13:25 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 3:13:34 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 3:13:40 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 3:13:45 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 3:13:56 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 3:14:04 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 3:14:11 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 3:14:22 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:14:29 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:14:31 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:14:32 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:14:33 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:14:34 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:14:35 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:14:37 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:16:00 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:16:14 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:16:28 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:16:41 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMYOBSaleOrderRegister?sales_type=3&ScreenId=1,Accounting Module,Sales Order
+13/6/2024 3:16:48 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:16:54 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+13/6/2024 3:16:58 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+13/6/2024 3:17:52 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+13/6/2024 3:17:58 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:18:02 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:18:05 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:18:07 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:18:18 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:18:26 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:24:56 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:24:59 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:25:06 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:25:11 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:25:26 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:26:18 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:26:23 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:26:35 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:29:27 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:29:32 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:29:51 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:29:55 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:29:56 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:29:57 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:30:00 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:30:08 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 3:33:53 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:33:57 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:33:59 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:34:01 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:34:11 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:41:34 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:41:43 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 3:52:58 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20Rikvin%20Payroll!,Payroll,Helpdesk Payroll
+13/6/2024 3:53:12 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:55:48 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 3:55:56 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:59:00 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 3:59:54 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:00:11 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:00:24 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:00:26 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:00:27 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:00:29 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:00:56 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 4:01:04 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 4:22:03 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 4:57:00 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 5:07:22 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+13/6/2024 5:08:47 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:08:51 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:08:53 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:08:55 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:09:07 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:09:28 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:10:59 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:12:00 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12225,Corporate Secretary,CRM Module
+13/6/2024 5:12:10 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12225,Corporate Secretary,CRM Module
+13/6/2024 5:26:19 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12225,Corporate Secretary,CRM Module
+13/6/2024 5:27:49 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=12225,Corporate Secretary,CRM Module
+13/6/2024 5:27:52 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 5:28:22 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:28:35 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 5:28:46 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+13/6/2024 5:29:10 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:47:05 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:47:07 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:47:07 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:47:09 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:47:13 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:52:03 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+13/6/2024 5:52:08 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 5:52:10 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 5:52:13 PM,qigqemy114lwt4mhn213qb40,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 5:53:06 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+13/6/2024 5:53:12 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+13/6/2024 5:53:43 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+13/6/2024 5:53:48 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:53:52 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:53:53 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:53:54 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:53:55 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:53:57 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:55:17 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:55:28 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 5:55:31 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+13/6/2024 6:00:13 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:00:28 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:00:29 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:00:32 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:00:36 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:00:41 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:13:25 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:13:27 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:13:29 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:13:30 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:13:31 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:13:33 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail+Sent+Successfully,Corporate Secretary,CRM Module
+13/6/2024 6:15:53 PM,zqfpqwsk00if4ufgu13ibgp1,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+14/6/2024 9:16:36 AM,nvjko5hhsubnryibeupoo0o2,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:16:41 AM,nvjko5hhsubnryibeupoo0o2,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:19:45 AM,nvjko5hhsubnryibeupoo0o2,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:29:47 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:29:51 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 9:30:21 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:38:15 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:39:48 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:42:29 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:42:42 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 9:50:14 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 9:50:29 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:09 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:10 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:11 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:13 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:15 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:17 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:18 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:19 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:21 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:24 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:28 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:29 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:30 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:33 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:35 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:56:38 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:59:00 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:59:16 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:59:32 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:59:33 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:59:36 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:59:42 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:59:53 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:59:55 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 9:59:57 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:00:05 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:00:27 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:09:56 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 10:10:41 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 10:16:32 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:16:46 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:16:49 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:16:51 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:17:03 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:24:09 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:29:43 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=36573,Corporate Secretary,CRM Module
+14/6/2024 10:29:48 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=36573,Corporate Secretary,CRM Module
+14/6/2024 10:30:17 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=36573,Corporate Secretary,CRM Module
+14/6/2024 10:30:20 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=36573,Corporate Secretary,CRM Module
+14/6/2024 10:30:27 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=36573,Corporate Secretary,CRM Module
+14/6/2024 10:30:56 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 10:31:02 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:06 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:08 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:09 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:09 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:10 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:14 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:17 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:31:22 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 10:33:06 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=36572,Corporate Secretary,CRM Module
+14/6/2024 10:33:19 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+14/6/2024 10:33:34 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+14/6/2024 10:35:12 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+14/6/2024 10:35:22 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+14/6/2024 10:39:14 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+14/6/2024 10:39:46 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobSalesRegister,Accounting Module,Sales Invoice
+14/6/2024 10:47:11 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 11:07:05 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 11:25:15 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdTicketFollowup?EmailHelpdesk_category_id=4,Corporate Secretary,Rikvin Support Followup
+14/6/2024 11:25:55 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 11:26:01 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 11:27:53 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+14/6/2024 11:29:02 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:30:46 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:31:53 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:31:55 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:32:03 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:32:05 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:36:17 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+14/6/2024 11:36:22 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 11:36:38 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:38:07 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 11:40:51 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 11:53:40 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+14/6/2024 11:56:36 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+14/6/2024 11:57:38 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+14/6/2024 11:57:46 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 11:58:16 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+14/6/2024 11:58:24 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:58:27 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:58:29 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 11:58:32 AM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 12:00:39 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 12:00:52 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 12:01:01 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 12:03:55 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+14/6/2024 12:04:01 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 12:04:08 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 12:04:19 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 12:04:27 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 12:04:38 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 12:04:43 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 12:04:53 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 12:04:57 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 1:24:40 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 1:24:59 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 1:25:39 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 1:58:34 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 2:07:23 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:07:34 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:08:30 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:10:25 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=5509,Corporate Secretary,CRM Module
+14/6/2024 2:10:40 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?CRM_CompanyId=5509,Corporate Secretary,CRM Module
+14/6/2024 2:22:52 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:22:55 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:22:57 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:22:59 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:23:02 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:23:07 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:23:37 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:23:39 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:23:40 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:23:41 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:23:44 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:23:49 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:26:40 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 2:26:50 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:26:55 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:30:31 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 2:30:55 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 2:31:00 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:32:48 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 2:45:28 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/MYOB/frmMyobStatementOfAccount,Credit Control,Statement of Accounts
+14/6/2024 2:46:14 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 2:59:18 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:00:21 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 3:00:30 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+14/6/2024 3:00:42 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:00:46 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:00:48 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:00:49 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:00:51 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:01:00 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 3:15:53 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+14/6/2024 3:18:56 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86&PostReplyMessage=Success:%20Response%20posted%20successfully%20-%20InCorp%20Payroll!,InCorp Tickets,Payroll
+14/6/2024 3:19:04 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:19:08 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:19:10 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:19:11 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain,Corporate Secretary,CRM Module
+14/6/2024 3:31:23 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/CRMModule/frmCRMMain?MailMsg=Mail%20Sent%20Successfully,Corporate Secretary,CRM Module
+14/6/2024 3:31:32 PM,yybvq0zj0e3e3thh5fo1axyg,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+14/6/2024 3:50:12 PM,2rozfortnxaqq45l5uo0fil3,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:50:16 PM,2rozfortnxaqq45l5uo0fil3,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+14/6/2024 3:56:05 PM,2rozfortnxaqq45l5uo0fil3,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:58:30 PM,2rozfortnxaqq45l5uo0fil3,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+14/6/2024 3:58:43 PM,2rozfortnxaqq45l5uo0fil3,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=86,InCorp Tickets,Payroll
+18/6/2024 9:49:08 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets,DashBoard,Dashboard
+18/6/2024 9:49:15 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/EmailHelpdesk/frmEhpdDashboardTickets/GetStaffName,DashBoard,Dashboard
+18/6/2024 9:50:13 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/HelpdeskTickets/FrmHpdTicketDirectory?TicketCategoryId=10,Payroll,Helpdesk Payroll
+18/6/2024 9:50:21 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+18/6/2024 9:50:41 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/Leave/LeaveCalendar,Leave Management,Leave Calendar
+18/6/2024 9:50:44 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/KnowledgeBase/frmKBAttendanceDetails,Leave Management,Attendance Details
+18/6/2024 9:50:55 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 9:51:03 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 9:51:10 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 9:51:14 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 9:52:09 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 9:52:09 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 9:52:48 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/Leave/FrmLeaveRequest,Leave Management,Leave Request
+18/6/2024 9:52:55 AM,0oxnpu2y0suaebzz0aj1kt2i,Alfred,https://portal.incorp.asia/myportal/Leave/FrmLeaveApprove,Leave Management,Leave Details
