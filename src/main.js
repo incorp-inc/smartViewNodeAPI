@@ -101,6 +101,27 @@ app.post('/getMenuAccessCountByMonth', upload.none(), async (req, res) => {
   }
 });
 
+
+
+
+app.post('/getAllDataWithinDateRange', async (req, res) => {
+  try {
+      const { startDate, endDate } = req.body;
+      const outputFilePath = `C:/UserLogsConsolidated/${startDate}_Userlogs.csv`;
+
+      if (!startDate || !endDate) {
+          return res.status(400).json({ status: 'error', message: 'Missing required fields: startDate, endDate' });
+      }
+
+      await userLogs.getAllDataWithinDateRange(startDate, endDate, outputFilePath);
+      sendSuccessResponse(res, { message: 'CSV file created successfully.' });
+  } catch (error) {
+      sendErrorResponse(res, error);
+  }
+});
+
+
+
 // Start the server
 const PORT = 3001;
 app.listen(PORT, () => {

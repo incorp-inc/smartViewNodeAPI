@@ -3,6 +3,8 @@ const path = require('path');
 const csv = require('csv-parser');
 const moment = require('moment');
 const { parse } = require('csv-parse');
+const { stringify } = require('csv-stringify');
+
 
 module.exports.getUserActivity = (username, startDate, endDate) => {
     return new Promise((resolve, reject) => {
@@ -314,6 +316,77 @@ module.exports.getMenuAccessCountByMonth = (month, year) => {
                         }
                     })
                     .on('error', (err) => {
+                        reject(err);
+                    });
+            });
+        });
+    });
+};
+
+
+
+module.exports.getAllDataWithinDateRange = (startDate, endDate, outputFilePath) => {
+    return new Promise((resolve, reject) => {
+        const directoryPath = 'C:/UserLogs';
+        fs.readdir(directoryPath, (err, files) => {
+            if (err) {
+                console.error(`Error reading directory ${directoryPath}:`, err);
+                reject(err);
+                return;
+            }
+
+            const csvFiles = files.filter(file => path.extname(file) === '.csv');
+
+            if (csvFiles.length === 0) {
+                console.log(`No CSV files found in directory ${directoryPath}.`);
+                resolve();
+                return;
+            }
+
+            const start = moment.utc(startDate, 'YYYY-MM-DD');
+            const end = moment.utc(endDate, 'YYYY-MM-DD').endOf('day'); // Ensure the end date includes the whole day
+
+            let processedFiles = 0;
+            const results = [];
+
+            csvFiles.forEach((file) => {
+                const filePath = path.join(directoryPath, file);
+
+                fs.createReadStream(filePath)
+                    .pipe(csv())
+                    .on('data', (row) => {
+                        const rowDate = moment.utc(row.Timestamp, 'DD/MM/YYYY h:mm:ss A');
+                        if (!rowDate.isValid()) {
+                            console.error(`Invalid date format in row: ${JSON.stringify(row)}`);
+                            return;
+                        }
+                        if (rowDate.isBetween(start, end, null, '[]')) {
+                            results.push(row);
+                        }
+                    })
+                    .on('end', () => {
+                        processedFiles++;
+                        if (processedFiles === csvFiles.length) {
+                            // Write the results to a new CSV file
+                            stringify(results, { header: true }, (err, output) => {
+                                if (err) {
+                                    console.error('Error writing CSV string:', err);
+                                    reject(err);
+                                    return;
+                                }
+                                fs.writeFile(outputFilePath, output, (err) => {
+                                    if (err) {
+                                        console.error('Error writing to file:', err);
+                                        reject(err);
+                                        return;
+                                    }
+                                    resolve();
+                                });
+                            });
+                        }
+                    })
+                    .on('error', (err) => {
+                        console.error(`Error processing file ${filePath}:`, err);
                         reject(err);
                     });
             });
