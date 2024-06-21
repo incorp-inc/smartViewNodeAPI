@@ -323,11 +323,21 @@ module.exports.getMenuAccessCountByMonth = (month, year) => {
     });
 };
 
-
-
 module.exports.getAllDataWithinDateRange = (startDate, endDate, outputFilePath) => {
     return new Promise((resolve, reject) => {
         const directoryPath = 'C:/UserLogs';
+        const mappingFilePath = path.join(__dirname, 'userFunctionalGroupMapping.json'); // Adjust the path relative to your script
+
+        // Read the user functional group mapping
+        let userFunctionalGroupMapping;
+        try {
+            userFunctionalGroupMapping = require(mappingFilePath);
+        } catch (err) {
+            console.error(`Error reading user functional group mapping file ${mappingFilePath}:`, err);
+            reject(err);
+            return;
+        }
+
         fs.readdir(directoryPath, (err, files) => {
             if (err) {
                 console.error(`Error reading directory ${directoryPath}:`, err);
@@ -361,6 +371,14 @@ module.exports.getAllDataWithinDateRange = (startDate, endDate, outputFilePath) 
                             return;
                         }
                         if (rowDate.isBetween(start, end, null, '[]')) {
+                            // Check if UserName exists in userFunctionalGroupMapping
+                            const userName = row.UserName;
+                            if (userName in userFunctionalGroupMapping) {
+                                row.FunctionalGroup = userFunctionalGroupMapping[userName];
+                            } else {
+                                console.warn(`No functional group mapping found for UserName: ${userName}`);
+                                row.FunctionalGroup = 'Unknown'; // Or handle as per your requirement
+                            }
                             results.push(row);
                         }
                     })
@@ -393,3 +411,115 @@ module.exports.getAllDataWithinDateRange = (startDate, endDate, outputFilePath) 
         });
     });
 };
+
+
+module.exports.getDataForSingleDate = (date, outputFilePath) => {
+    return new Promise((resolve, reject) => {
+        const directoryPath = 'C:/UserLogs';
+        const mappingFilePath = path.join(__dirname, 'userFunctionalGroupMapping.json'); // Adjust the path relative to your script
+
+        // Read the user functional group mapping
+        let userFunctionalGroupMapping;
+        try {
+            userFunctionalGroupMapping = require(mappingFilePath);
+        } catch (err) {
+            console.error(`Error reading user functional group mapping file ${mappingFilePath}:`, err);
+            reject(err);
+            return;
+        }
+
+        fs.readdir(directoryPath, (err, files) => {
+            if (err) {
+                console.error(`Error reading directory ${directoryPath}:`, err);
+                reject(err);
+                return;
+            }
+
+            const csvFiles = files.filter(file => path.extname(file) === '.csv');
+
+            if (csvFiles.length === 0) {
+                console.log(`No CSV files found in directory ${directoryPath}.`);
+                resolve();
+                return;
+            }
+
+            const targetDate = moment.utc(date, 'YYYY-MM-DD');
+
+            let processedFiles = 0;
+            const results = [];
+
+            csvFiles.forEach((file) => {
+                const filePath = path.join(directoryPath, file);
+
+                fs.createReadStream(filePath)
+                    .pipe(csv())
+                    .on('data', (row) => {
+                        const rowDate = moment.utc(row.Timestamp, 'DD/MM/YYYY h:mm:ss A');
+                        if (!rowDate.isValid()) {
+                            console.error(`Invalid date format in row: ${JSON.stringify(row)}`);
+                            return;
+                        }
+                        if (rowDate.isSame(targetDate, 'day')) {
+                            // Check if UserName exists in userFunctionalGroupMapping
+                            const userName = row.UserName;
+                            if (userName in userFunctionalGroupMapping) {
+                                row.FunctionalGroup = userFunctionalGroupMapping[userName];
+                            } else {
+                                console.warn(`No functional group mapping found for UserName: ${userName}`);
+                                row.FunctionalGroup = 'Unknown'; // Or handle as per your requirement
+                            }
+                            results.push(row);
+                        }
+                    })
+                    .on('end', () => {
+                        processedFiles++;
+                        if (processedFiles === csvFiles.length) {
+                            // Write the results to a new CSV file
+                            stringify(results, { header: true }, (err, output) => {
+                                if (err) {
+                                    console.error('Error writing CSV string:', err);
+                                    reject(err);
+                                    return;
+                                }
+                                fs.writeFile(outputFilePath, output, (err) => {
+                                    if (err) {
+                                        console.error('Error writing to file:', err);
+                                        reject(err);
+                                        return;
+                                    }
+                                    resolve();
+                                });
+                            });
+                        }
+                    })
+                    .on('error', (err) => {
+                        console.error(`Error processing file ${filePath}:`, err);
+                        reject(err);
+                    });
+            });
+        });
+    });
+};
+
+module.exports.getAllDataWithinDateRangeSeparateFile = (startDate, endDate, outputDirectoryPath) => {
+    return new Promise(async (resolve, reject) => {
+        const start = moment.utc(startDate, 'YYYY-MM-DD');
+        const end = moment.utc(endDate, 'YYYY-MM-DD');
+
+        const dates = [];
+        for (let m = start; m.isSameOrBefore(end); m.add(1, 'days')) {
+            dates.push(m.format('YYYY-MM-DD'));
+        }
+
+        try {
+            for (const date of dates) {
+                const outputFilePath = path.join(outputDirectoryPath, `${date}_Userlogs.csv`);
+                await module.exports.getDataForSingleDate(date, outputFilePath);
+            }
+            resolve();
+        } catch (err) {
+            reject(err);
+        }
+    });
+};
+

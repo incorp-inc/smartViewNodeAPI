@@ -121,6 +121,23 @@ app.post('/getAllDataWithinDateRange', async (req, res) => {
 });
 
 
+app.post('/getAllDataWithinDateRangeSeparateFile', async (req, res) => {
+  try {
+      const { startDate, endDate } = req.body;
+      const outputDirectoryPath = 'C:/UserLogsConsolidated';
+
+      if (!startDate || !endDate) {
+          return res.status(400).json({ status: 'error', message: 'Missing required fields: startDate, endDate' });
+      }
+
+      await userLogs.getAllDataWithinDateRangeSeparateFile(startDate, endDate, outputDirectoryPath);
+      sendSuccessResponse(res, { message: 'CSV files created successfully.' });
+  } catch (error) {
+      sendErrorResponse(res, error);
+  }
+});
+
+
 
 // Start the server
 const PORT = 3001;
