@@ -413,6 +413,7 @@ module.exports.getAllDataWithinDateRange = (startDate, endDate, outputFilePath) 
 };
 
 
+
 module.exports.getDataForSingleDate = (date, outputFilePath) => {
     return new Promise((resolve, reject) => {
         const directoryPath = 'C:/UserLogs';
@@ -454,21 +455,33 @@ module.exports.getDataForSingleDate = (date, outputFilePath) => {
                 fs.createReadStream(filePath)
                     .pipe(csv())
                     .on('data', (row) => {
-                        const rowDate = moment.utc(row.Timestamp, 'DD/MM/YYYY h:mm:ss A');
+                        // Trim keys to remove extra spaces
+                        const trimmedRow = {};
+                        for (let key in row) {
+                            trimmedRow[key.trim()] = row[key];
+                        }
+
+                        const rowDate = moment.utc(trimmedRow.Timestamp, 'DD/MM/YYYY h:mm:ss A');
                         if (!rowDate.isValid()) {
-                            console.error(`Invalid date format in row: ${JSON.stringify(row)}`);
+                            console.error(`Invalid date format in row: ${JSON.stringify(trimmedRow)}`);
                             return;
                         }
                         if (rowDate.isSame(targetDate, 'day')) {
                             // Check if UserName exists in userFunctionalGroupMapping
-                            const userName = row.UserName;
+                            const userName = trimmedRow.UserName;
                             if (userName in userFunctionalGroupMapping) {
-                                row.FunctionalGroup = userFunctionalGroupMapping[userName];
+                                trimmedRow.FunctionalGroup = userFunctionalGroupMapping[userName];
                             } else {
                                 console.warn(`No functional group mapping found for UserName: ${userName}`);
-                                row.FunctionalGroup = 'Unknown'; // Or handle as per your requirement
+                                trimmedRow.FunctionalGroup = 'Unknown'; // Or handle as per your requirement
                             }
-                            results.push(row);
+                            results.push({
+                                UserName: trimmedRow.UserName,
+                                FunctionalGroup: trimmedRow.FunctionalGroup,
+                                Menu: trimmedRow.Menu,
+                                Submenu: trimmedRow.Submenu,
+                                Timestamp: trimmedRow.Timestamp
+                            });
                         }
                     })
                     .on('end', () => {
@@ -522,4 +535,3 @@ module.exports.getAllDataWithinDateRangeSeparateFile = (startDate, endDate, outp
         }
     });
 };
-
