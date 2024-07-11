@@ -113,7 +113,7 @@ app.post('/getAllDataWithinDateRange', async (req, res) => {
           return res.status(400).json({ status: 'error', message: 'Missing required fields: startDate, endDate' });
       }
 
-      await userLogs.getAllDataWithinDateRange(startDate, endDate, outputFilePath);
+      await userLogs.getAllDataWithinDateRangeSingleFile(startDate, endDate, outputFilePath);
       sendSuccessResponse(res, { message: 'CSV file created successfully.' });
   } catch (error) {
       sendErrorResponse(res, error);
@@ -132,6 +132,18 @@ app.post('/getAllDataWithinDateRangeSeparateFile', async (req, res) => {
 
       await userLogs.getAllDataWithinDateRangeSeparateFile(startDate, endDate, outputDirectoryPath);
       sendSuccessResponse(res, { message: 'CSV files created successfully.' });
+  } catch (error) {
+      sendErrorResponse(res, error);
+  }
+});
+
+app.post('/getMismatchReport', async (req, res) => {
+  try {
+      const outputFilePath = `C:/UserLogsConsolidated/Mismatches.csv`;
+
+
+      await userLogs.getMismatchReport( outputFilePath);
+      sendSuccessResponse(res, { message: 'CSV file created successfully.' });
   } catch (error) {
       sendErrorResponse(res, error);
   }

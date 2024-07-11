@@ -413,21 +413,55 @@ module.exports.getAllDataWithinDateRange = (startDate, endDate, outputFilePath) 
 };
 
 
-
 module.exports.getDataForSingleDate = (date, outputFilePath) => {
     return new Promise((resolve, reject) => {
         const directoryPath = 'C:/UserLogs';
-        const mappingFilePath = path.join(__dirname, 'userFunctionalGroupMapping.json'); // Adjust the path relative to your script
+        const functionalGroupMappingFilePath = path.join(__dirname, 'userFunctionalGroupMapping.json');
+        const countryMappingFilePath = path.join(__dirname, 'userCountryMapping.json');
+        const departmentMappingFilePath = path.join(__dirname, 'userDepartmentMapping.json');
 
-        // Read the user functional group mapping
-        let userFunctionalGroupMapping;
+        let userFunctionalGroupMapping, userCountryMapping, userDepartmentMapping;
+        const mismatchedUserNames = new Set();
+
         try {
-            userFunctionalGroupMapping = require(mappingFilePath);
+            userFunctionalGroupMapping = require(functionalGroupMappingFilePath);
         } catch (err) {
-            console.error(`Error reading user functional group mapping file ${mappingFilePath}:`, err);
+            console.error(`Error reading user functional group mapping file ${functionalGroupMappingFilePath}:`, err);
             reject(err);
             return;
         }
+
+        try {
+            userCountryMapping = require(countryMappingFilePath);
+        } catch (err) {
+            console.error(`Error reading user country mapping file ${countryMappingFilePath}:`, err);
+            reject(err);
+            return;
+        }
+
+        try {
+            userDepartmentMapping = require(departmentMappingFilePath);
+        } catch (err) {
+            console.error(`Error reading user department mapping file ${departmentMappingFilePath}:`, err);
+            reject(err);
+            return;
+        }
+
+        const logMismatch = (mappingType, userName) => {
+            if (!mismatchedUserNames.has(userName)) {
+                mismatchedUserNames.add(userName);
+                console.log(`${mappingType} mismatch for UserName: ${userName}`);
+            }
+        };
+
+        const getMappingValue = (mapping, userName, mappingType) => {
+            const lowerCaseUserName = userName.toLowerCase();
+            const value = mapping[userName] || mapping[lowerCaseUserName];
+            if (!value) {
+                logMismatch(mappingType, userName);
+            }
+            return value || 'Unknown';
+        };
 
         fs.readdir(directoryPath, (err, files) => {
             if (err) {
@@ -445,9 +479,9 @@ module.exports.getDataForSingleDate = (date, outputFilePath) => {
             }
 
             const targetDate = moment.utc(date, 'YYYY-MM-DD');
+            const results = {};
 
             let processedFiles = 0;
-            const results = [];
 
             csvFiles.forEach((file) => {
                 const filePath = path.join(directoryPath, file);
@@ -455,11 +489,11 @@ module.exports.getDataForSingleDate = (date, outputFilePath) => {
                 fs.createReadStream(filePath)
                     .pipe(csv())
                     .on('data', (row) => {
-                        // Trim keys to remove extra spaces
                         const trimmedRow = {};
                         for (let key in row) {
-                            trimmedRow[key.trim()] = row[key];
+                            trimmedRow[key.trim()] = row[key].trim();
                         }
+                        const userName = trimmedRow.UserName;
 
                         const rowDate = moment.utc(trimmedRow.Timestamp, 'DD/MM/YYYY h:mm:ss A');
                         if (!rowDate.isValid()) {
@@ -467,28 +501,34 @@ module.exports.getDataForSingleDate = (date, outputFilePath) => {
                             return;
                         }
                         if (rowDate.isSame(targetDate, 'day')) {
-                            // Check if UserName exists in userFunctionalGroupMapping
-                            const userName = trimmedRow.UserName;
-                            if (userName in userFunctionalGroupMapping) {
-                                trimmedRow.FunctionalGroup = userFunctionalGroupMapping[userName];
-                            } else {
-                                console.warn(`No functional group mapping found for UserName: ${userName}`);
-                                trimmedRow.FunctionalGroup = 'Unknown'; // Or handle as per your requirement
+                            const dateOnly = rowDate.format('DD/MM/YYYY');
+                            const functionalGroup = getMappingValue(userFunctionalGroupMapping, userName, 'FunctionalGroup');
+                            const country = getMappingValue(userCountryMapping, userName, 'Country');
+                            const department = getMappingValue(userDepartmentMapping, userName, 'Department');
+                            const menu = trimmedRow.Menu;
+                            const submenu = trimmedRow.Submenu;
+
+                            const key = `${userName}-${submenu}`;
+                            if (!results[key]) {
+                                results[key] = {
+                                    UserName: userName,
+                                    Country: country,
+                                    Department: department,
+                                    Menu: menu,
+                                    Submenu: submenu,
+                                    AccessCount: 0,
+                                    Date: dateOnly,
+                                    FunctionalGroup: functionalGroup
+                                };
                             }
-                            results.push({
-                                UserName: trimmedRow.UserName,
-                                FunctionalGroup: trimmedRow.FunctionalGroup,
-                                Menu: trimmedRow.Menu,
-                                Submenu: trimmedRow.Submenu,
-                                Timestamp: trimmedRow.Timestamp
-                            });
+                            results[key].AccessCount += 1;
                         }
                     })
                     .on('end', () => {
                         processedFiles++;
                         if (processedFiles === csvFiles.length) {
-                            // Write the results to a new CSV file
-                            stringify(results, { header: true }, (err, output) => {
+                            const finalResults = Object.values(results);
+                            stringify(finalResults, { header: true }, (err, output) => {
                                 if (err) {
                                     console.error('Error writing CSV string:', err);
                                     reject(err);
@@ -514,6 +554,9 @@ module.exports.getDataForSingleDate = (date, outputFilePath) => {
     });
 };
 
+
+
+
 module.exports.getAllDataWithinDateRangeSeparateFile = (startDate, endDate, outputDirectoryPath) => {
     return new Promise(async (resolve, reject) => {
         const start = moment.utc(startDate, 'YYYY-MM-DD');
@@ -533,5 +576,142 @@ module.exports.getAllDataWithinDateRangeSeparateFile = (startDate, endDate, outp
         } catch (err) {
             reject(err);
         }
+    });
+};
+
+
+module.exports.getAllDataWithinDateRangeSingleFile = (startDate, endDate, outputFilePath) => {
+    return new Promise(async (resolve, reject) => {
+        const start = moment.utc(startDate, 'YYYY-MM-DD');
+        const end = moment.utc(endDate, 'YYYY-MM-DD');
+
+        const dates = [];
+        for (let m = start; m.isSameOrBefore(end); m.add(1, 'days')) {
+            dates.push(m.format('YYYY-MM-DD'));
+        }
+
+        try {
+            const writeStream = fs.createWriteStream(outputFilePath, { flags: 'a' });
+
+            for (const date of dates) {
+                const data = await module.exports.getDataForSingleDate(date);
+                writeStream.write(data + '\n'); // assuming data is a string or can be serialized
+            }
+
+            writeStream.end();
+            writeStream.on('finish', resolve);
+            writeStream.on('error', reject);
+        } catch (err) {
+            reject(err);
+        }
+    });
+};
+
+
+
+module.exports.getMismatchReport = (outputFilePath) => {
+    return new Promise((resolve, reject) => {
+        const directoryPath = 'C:/UserLogs';
+        const functionalGroupMappingFilePath = path.join(__dirname, 'userFunctionalGroupMapping.json');
+        const countryMappingFilePath = path.join(__dirname, 'userCountryMapping.json');
+        const departmentMappingFilePath = path.join(__dirname, 'userDepartmentMapping.json');
+
+        let userFunctionalGroupMapping, userCountryMapping, userDepartmentMapping;
+        const mismatchedUserNames = [];
+
+        try {
+            userFunctionalGroupMapping = require(functionalGroupMappingFilePath);
+        } catch (err) {
+            console.error(`Error reading user functional group mapping file ${functionalGroupMappingFilePath}:`, err);
+            reject(err);
+            return;
+        }
+
+        try {
+            userCountryMapping = require(countryMappingFilePath);
+        } catch (err) {
+            console.error(`Error reading user country mapping file ${countryMappingFilePath}:`, err);
+            reject(err);
+            return;
+        }
+
+        try {
+            userDepartmentMapping = require(departmentMappingFilePath);
+        } catch (err) {
+            console.error(`Error reading user department mapping file ${departmentMappingFilePath}:`, err);
+            reject(err);
+            return;
+        }
+
+        const checkMismatch = (mapping, userName, mappingType) => {
+            const lowerCaseUserName = userName.toLowerCase();
+            const value = mapping[userName] || mapping[lowerCaseUserName];
+            if (!value) {
+                mismatchedUserNames.push({ UserName: userName, MismatchType: mappingType });
+            }
+        };
+
+        fs.readdir(directoryPath, (err, files) => {
+            if (err) {
+                console.error(`Error reading directory ${directoryPath}:`, err);
+                reject(err);
+                return;
+            }
+
+            const csvFiles = files.filter(file => path.extname(file) === '.csv');
+
+            if (csvFiles.length === 0) {
+                console.log(`No CSV files found in directory ${directoryPath}.`);
+                resolve();
+                return;
+            }
+
+            let processedFiles = 0;
+
+            csvFiles.forEach((file) => {
+                const filePath = path.join(directoryPath, file);
+
+                fs.createReadStream(filePath)
+                    .pipe(csv())
+                    .on('data', (row) => {
+                        // Trim keys to remove extra spaces and convert UserName to lowercase
+                        const trimmedRow = {};
+                        for (let key in row) {
+                            trimmedRow[key.trim()] = row[key].trim();
+                        }
+                        const userName = trimmedRow.UserName;
+
+                        checkMismatch(userFunctionalGroupMapping, userName, 'FunctionalGroup');
+                        checkMismatch(userCountryMapping, userName, 'Country');
+                        checkMismatch(userDepartmentMapping, userName, 'Department');
+                    })
+                    .on('end', () => {
+                        processedFiles++;
+                        if (processedFiles === csvFiles.length) {
+                            // Write the mismatched UserNames to a new CSV file
+                            const uniqueMismatchedUserNames = Array.from(new Set(mismatchedUserNames.map(JSON.stringify))).map(JSON.parse);
+                            stringify(uniqueMismatchedUserNames, { header: true }, (err, output) => {
+                                if (err) {
+                                    console.error('Error writing CSV string:', err);
+                                    reject(err);
+                                    return;
+                                }
+                                fs.writeFile(outputFilePath, output, (err) => {
+                                    if (err) {
+                                        console.error('Error writing to file:', err);
+                                        reject(err);
+                                        return;
+                                    }
+                                    resolve();
+                                });
+                            });
+                        }
+                    })
+                    .on('error', (err) => {
+                        console.error(`Error processing file ${filePath}:`, err);
+                        reject(err);
+                    });
+            });
+        });
     });
 };
