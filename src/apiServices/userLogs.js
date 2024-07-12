@@ -413,6 +413,7 @@ module.exports.getAllDataWithinDateRange = (startDate, endDate, outputFilePath) 
 };
 
 
+
 module.exports.getDataForSingleDate = (date, outputFilePath) => {
     return new Promise((resolve, reject) => {
         const directoryPath = 'C:/UserLogs';
@@ -511,24 +512,33 @@ module.exports.getDataForSingleDate = (date, outputFilePath) => {
                             const key = `${userName}-${submenu}`;
                             if (!results[key]) {
                                 results[key] = {
+                                    Date: dateOnly,
                                     UserName: userName,
-                                    Country: country,
-                                    Department: department,
+                                    CountOfLogin: 0, // Changed AccessCount to CountOfLogin
                                     Menu: menu,
                                     Submenu: submenu,
-                                    AccessCount: 0,
-                                    Date: dateOnly,
+                                    Department: department,
                                     FunctionalGroup: functionalGroup
                                 };
                             }
-                            results[key].AccessCount += 1;
+                            results[key].CountOfLogin += 1;
                         }
                     })
                     .on('end', () => {
                         processedFiles++;
                         if (processedFiles === csvFiles.length) {
                             const finalResults = Object.values(results);
-                            stringify(finalResults, { header: true }, (err, output) => {
+                            stringify(finalResults, {
+                                header: true,
+                                columns: [
+                                    { key: 'Date', header: 'Date' },
+                                    { key: 'UserName', header: 'UserName' },
+                                    { key: 'CountOfLogin', header: 'CountOfLogin' },
+                                    { key: 'Menu', header: 'Menu' },
+                                    { key: 'Submenu', header: 'Submenu' },
+                                    { key: 'Department', header: 'Department' }
+                                ]
+                            }, (err, output) => {
                                 if (err) {
                                     console.error('Error writing CSV string:', err);
                                     reject(err);
@@ -553,6 +563,7 @@ module.exports.getDataForSingleDate = (date, outputFilePath) => {
         });
     });
 };
+
 
 
 
@@ -715,3 +726,113 @@ module.exports.getMismatchReport = (outputFilePath) => {
         });
     });
 };
+
+
+module.exports.getMatchingReport = (outputFilePath) => {
+    return new Promise((resolve, reject) => {
+        const directoryPath = 'C:/UserLogs';
+        const functionalGroupMappingFilePath = path.join(__dirname, 'userFunctionalGroupMapping.json');
+        const countryMappingFilePath = path.join(__dirname, 'userCountryMapping.json');
+        const departmentMappingFilePath = path.join(__dirname, 'userDepartmentMapping.json');
+
+        let userFunctionalGroupMapping, userCountryMapping, userDepartmentMapping;
+        const matchedUserNames = [];
+
+        try {
+            userFunctionalGroupMapping = require(functionalGroupMappingFilePath);
+        } catch (err) {
+            console.error(`Error reading user functional group mapping file ${functionalGroupMappingFilePath}:`, err);
+            reject(err);
+            return;
+        }
+
+        try {
+            userCountryMapping = require(countryMappingFilePath);
+        } catch (err) {
+            console.error(`Error reading user country mapping file ${countryMappingFilePath}:`, err);
+            reject(err);
+            return;
+        }
+
+        try {
+            userDepartmentMapping = require(departmentMappingFilePath);
+        } catch (err) {
+            console.error(`Error reading user department mapping file ${departmentMappingFilePath}:`, err);
+            reject(err);
+            return;
+        }
+
+        const checkMatch = (userName) => {
+            const lowerCaseUserName = userName.toLowerCase();
+            const functionalGroup = userFunctionalGroupMapping[userName] || userFunctionalGroupMapping[lowerCaseUserName];
+            const country = userCountryMapping[userName] || userCountryMapping[lowerCaseUserName];
+            const department = userDepartmentMapping[userName] || userDepartmentMapping[lowerCaseUserName];
+
+            if (functionalGroup && country && department) {
+                matchedUserNames.push({ UserName: userName, Country: country, Department: department });
+            }
+        };
+
+        fs.readdir(directoryPath, (err, files) => {
+            if (err) {
+                console.error(`Error reading directory ${directoryPath}:`, err);
+                reject(err);
+                return;
+            }
+
+            const csvFiles = files.filter(file => path.extname(file) === '.csv');
+
+            if (csvFiles.length === 0) {
+                console.log(`No CSV files found in directory ${directoryPath}.`);
+                resolve();
+                return;
+            }
+
+            let processedFiles = 0;
+
+            csvFiles.forEach((file) => {
+                const filePath = path.join(directoryPath, file);
+
+                fs.createReadStream(filePath)
+                    .pipe(csv())
+                    .on('data', (row) => {
+                        // Trim keys to remove extra spaces
+                        const trimmedRow = {};
+                        for (let key in row) {
+                            trimmedRow[key.trim()] = row[key].trim();
+                        }
+                        const userName = trimmedRow.UserName;
+
+                        checkMatch(userName);
+                    })
+                    .on('end', () => {
+                        processedFiles++;
+                        if (processedFiles === csvFiles.length) {
+                            // Write the matched UserNames to a new CSV file
+                            const uniqueMatchedUserNames = Array.from(new Set(matchedUserNames.map(JSON.stringify))).map(JSON.parse);
+                            stringify(uniqueMatchedUserNames, { header: true }, (err, output) => {
+                                if (err) {
+                                    console.error('Error writing CSV string:', err);
+                                    reject(err);
+                                    return;
+                                }
+                                fs.writeFile(outputFilePath, output, (err) => {
+                                    if (err) {
+                                        console.error('Error writing to file:', err);
+                                        reject(err);
+                                        return;
+                                    }
+                                    resolve();
+                                });
+                            });
+                        }
+                    })
+                    .on('error', (err) => {
+                        console.error(`Error processing file ${filePath}:`, err);
+                        reject(err);
+                    });
+            });
+        });
+    });
+};
+

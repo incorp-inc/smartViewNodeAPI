@@ -149,6 +149,18 @@ app.post('/getMismatchReport', async (req, res) => {
   }
 });
 
+app.post('/getMatchingReport', async (req, res) => {
+  try {
+      const outputFilePath = `C:/UserLogsConsolidated/UserNameMapping.csv`;
+
+
+      await userLogs.getMatchingReport ( outputFilePath);
+      sendSuccessResponse(res, { message: 'CSV file created successfully.' });
+  } catch (error) {
+      sendErrorResponse(res, error);
+  }
+});
+
 
 
 // Start the server
